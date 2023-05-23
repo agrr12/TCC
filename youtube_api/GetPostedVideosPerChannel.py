@@ -1,38 +1,71 @@
 import requests
 import json
+import import_handle
 
-# Defina suas credenciais
-API_KEY = 'AIzaSyAX7qsfII35cqKaIo_Wr8RZQcdyujnfOSM'
-
-# Defina o ID do canal
-channel_id = 'UClNb35LAT7Ob9GrZx1oJDxQ'
-
-# Construa a URL para obter a playlist de uploads do canal
-playlist_url = f'https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id={channel_id}&key={API_KEY}'
-
-# Faça a requisição GET para obter a playlist de uploads
-playlist_response = requests.get(playlist_url)
-
-print(playlist_response)
-
-playlist_data = json.loads(playlist_response.text)
-playlist_id = playlist_data['items'][0]['contentDetails']['relatedPlaylists']['uploads']
-print(playlist_data['items'])
-# Construa a URL para obter a lista de vídeos da playlist de uploads
-videos_url = f'https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId={playlist_id}&maxResults=10&key={API_KEY}'
-# Faça a requisição GET para obter a lista de vídeos
-videos_response = requests.get(videos_url)
-videos_data = json.loads(videos_response.text)
-
-print(videos_response)
+import requests
+import json
 
 
-# Itere sobre os vídeos na resposta
-for item in videos_data['items']:
-    video_id = item['snippet']['resourceId']['videoId']
-    title = item['snippet']['title']
+def get_all_comments(video_id, api_key):
+    """
+    Fetches all comments from a specific YouTube video.
 
-    # Exiba o ID e o título do vídeo
-    print('ID do vídeo:', video_id)
-    print('Título:', title)
-    print('---')
+    This function uses the YouTube Data API to retrieve all comments from a given video.
+    It performs an initial request to get the first set of comments and then continues
+    making requests for additional comments while the 'nextPageToken' field is present in
+    the response data. Each comment is then processed and saved to a dataframe.
+
+    Parameters
+    ----------
+    video_id : str
+        The ID of the YouTube video for which to fetch comments.
+    api_key : str
+        The API key to use for authentication with the YouTube Data API.
+
+    Returns
+    -------
+    list
+        A list of all comments from the specified YouTube video. Each comment is represented as a JSON object.
+
+    Raises
+    ------
+    HTTPError
+        If an error occurs during the HTTP request to the YouTube Data API.
+    """
+    url = f"https://www.googleapis.com/youtube/v3/commentThreads"
+    comments = []
+
+    first_params = {
+        'key': api_key,
+        'textFormat': 'plainText',
+        'part': 'snippet',
+        'videoId': video_id,
+        'maxResults': 100
+    }
+
+    result = requests.get(url, params=first_params)
+    result.raise_for_status()  # Ensure the request succeeded
+    data = result.json()
+
+    for item in data['items']:
+        comments.append(item)
+        df = import_handle.json_to_dataframe(item, 3)  # flatten the json and convert it into a dataframe
+        import_handle.save_df('test2', 'a', df)
+
+    while 'nextPageToken' in data:
+        next_params = first_params.copy()
+        next_params['pageToken'] = data['nextPaxgeToken']
+        result = requests.get(url, params=next_params)
+        result.raise_for_status()  # Ensure the request succeeded
+        data = result.json()
+
+        for item in data['items']:
+            df = import_handle.json_to_dataframe(item, 2)  # flatten the json and convert it into a dataframe
+            import_handle.save_df('test2', 'a', df)
+            comments.append(item)
+
+    return comments
+
+api_key = 'AIzaSyAX7qsfII35cqKaIo_Wr8RZQcdyujnfOSM'  # Replace this with your API key
+video_id = '1PiqkX8IxUI'  # Replace this with your video ID
+a=get_all_comments(video_id, api_key)
