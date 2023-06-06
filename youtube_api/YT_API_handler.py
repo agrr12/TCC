@@ -1,7 +1,7 @@
 import import_handle as IH
 import requests
 import time
-import datetime
+from datetime import datetime
 import pandas as pd
 
 #Costly Function in QUotas
@@ -209,6 +209,39 @@ def search_channel_with_name_and_get_info(df, api_key):
         df_c = IH.json_to_dataframe(data, 0)
         IH.save_df('CSVs/', 'channels_info', 'a', df_c)
         time.sleep(0.5)
+def continue_playlist_import_from_token(api_key, playlist_id, path, file_name, next_page_token):
+    base_url = 'https://www.googleapis.com/youtube/v3/playlistItems'
+    first_url = f'{base_url}?key={api_key}&playlistId={playlist_id}&part=snippet&maxResults=50&pageToken={next_page_token}'
+    url = first_url
+    min_date = datetime.strptime('2022-09-01T00:00:00Z', '%Y-%m-%dT%H:%M:%SZ')
+    while True:
+        response = requests.get(url)
+        try:
+            response.raise_for_status()  # Raise an HTTPError if the request fails
+            data = response.json()
+            items = data['items']
+            df = IH.json_to_dataframe(items, 2)
+            datas = pd.to_datetime(df['snippet.publishedAt'], format='%Y-%m-%dT%H:%M:%SZ')
+            if datas.max() < min_date:
+                break
+            print(datas.max(), file_name)
+            try:
+                df['nextPageToken'] = data['nextPageToken']
+            except Exception:
+                df['nextPageToken'] = None
+
+            IH.save_df(path, file_name, 'a', df)
+            if 'nextPageToken' not in data:
+                print('No more pages left')
+                break
+            else:
+                next_page_token = data['nextPageToken']
+                url = first_url + '&pageToken={}'.format(next_page_token)
+                # To avoid exceeding quota with too many requests
+                time.sleep(1)
+        except requests.HTTPError as err:
+            print(f"HTTP Error occurred: {err}")
+            raise
 
 def get_playlist_items(api_key, playlist_id, path, file_name):
     base_url = 'https://www.googleapis.com/youtube/v3/playlistItems'
@@ -225,8 +258,12 @@ def get_playlist_items(api_key, playlist_id, path, file_name):
             datas = pd.to_datetime(df['snippet.publishedAt'], format='%Y-%m-%dT%H:%M:%SZ')
             if datas.max()<min_date:
                 break
-            print(datas.min(),file_name)
-            df['nextPageToken'] = data['nextPageToken']
+            print(datas.max(),file_name)
+            try:
+                df['nextPageToken'] = data['nextPageToken']
+            except Exception :
+                df['nextPageToken'] = None
+
             IH.save_df(path, file_name, 'a', df)
             if 'nextPageToken' not in data:
                 print('No more pages left')
@@ -239,21 +276,3 @@ def get_playlist_items(api_key, playlist_id, path, file_name):
         except requests.HTTPError as err:
             print(f"HTTP Error occurred: {err}")
             raise
-
-
-if __name__ == '__main__':
-    list_NEWS = {'Band Jornalismo': 'iYVk1CeIs60',
-                 'UOL': 'WsA2SRdkIFM',
-                 'Folha de S.Paulo': 'k9c3LbZxXKs',
-                 'Gazeta do Povo': 'dsvFw0_l14c',
-                 'Jornalismo TV Cultura': 'jSlG0No9muY',
-                 'g1': 'MVeRuwkig18',
-                 'SBT News': 'oZ03eKeROuE',
-                 'Rádio BandNews FM': 'ClU5zXko0cw',
-                 'CNN Brasil': 'fvWJTGN4-Ts',
-                 'Jovem Pan News': 'eabTH5yhfAk',
-                 'Poder360': 'n1cPJuoqAC8'}
-
-    a = get_video_info('AIzaSyAX7qsfII35cqKaIo_Wr8RZQcdyujnfOSM', '1PiqkX8IxUI')
-    print(a)
-    #write_channel_list_from_videoid_list(list_NEWS)
