@@ -24,6 +24,3 @@ for _,row in df.iterrows():
         continue
     YT.get_playlist_items(api_key, playlist_id, 'CSVs/ChannelVideos', name)
     print(name, 'CONCLUDED')
-
-
-#YT.get_playlist_items(api_key, playlist_id, 'CSVs/', 'Meteoro')

@@ -4,12 +4,12 @@ import time
 from datetime import datetime
 import pandas as pd
 
-next_page_token = 'EAAaB1BUOkNLeE4'
-playlist_id = 'UUVFbXI6Gu8U2f9Gjtxw4A-Q'
+next_page_token = 'EAAaB1BUOkNLb0w'
+playlist_id = 'UUFCiSRbCVwQ_BQaDQBYxN_A'
 api_key = IH.get_api_key(0)
 path = 'CSVs/ChannelVideos'
-name = 'UOL'
-
+name = 'Poder360'
+base_url = 'https://www.googleapis.com/youtube/v3/playlistItems'
 
 def continue_playlist_import_from_token(api_key, playlist_id, path, file_name, next_page_token):
     base_url = 'https://www.googleapis.com/youtube/v3/playlistItems'
@@ -45,4 +45,4 @@ def continue_playlist_import_from_token(api_key, playlist_id, path, file_name, n
             print(f"HTTP Error occurred: {err}")
             raise
 
-get_playlist_items(api_key, playlist_id, path, 'UOL', next_page_token)
+continue_playlist_import_from_token(api_key, playlist_id, path, name, next_page_token)

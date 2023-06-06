@@ -1,0 +1,962 @@
+kind,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default,snippet.thumbnails.medium,snippet.thumbnails.high,snippet.thumbnails.standard,snippet.thumbnails.maxres,snippet.channelTitle,snippet.playlistId,snippet.position,snippet.resourceId.kind,snippet.resourceId.videoId,snippet.videoOwnerChannelTitle,snippet.videoOwnerChannelId,nextPageToken,extraction_date
+youtube#playlistItem,W4fSMm06c9cAlmaDksljrqPLP3o,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnFfNl84VmZKY3gw,2023-06-03T03:54:08Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: ISSO É MUITO SÉRIO, O SISTEMA TODO SE ALINHOU","URGENTE: ISSO É MUITO SÉRIO, O SISTEMA TODO SE ALINHOU","{'url': 'https://i.ytimg.com/vi/q_6_8VfJcx0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/q_6_8VfJcx0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/q_6_8VfJcx0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/q_6_8VfJcx0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/q_6_8VfJcx0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,0,youtube#video,q_6_8VfJcx0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,wHwsuzLMdBXPtaAfI3T_iRNH26o,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmlHSGU4MWxEVDBz,2023-06-01T02:09:59Z,UCDwLCn3w_8-q9xwhNC6H5dw,ISSO É URGENTE: TODOS SÃO PEGOS DE SUPRESA E SITUAÇÃO COMPLICA,ISSO É URGENTE: TODOS SÃO PEGOS DE SUPRESA E SITUAÇÃO COMPLICA,"{'url': 'https://i.ytimg.com/vi/iGHe81lDT0s/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/iGHe81lDT0s/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/iGHe81lDT0s/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/iGHe81lDT0s/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/iGHe81lDT0s/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,1,youtube#video,iGHe81lDT0s,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,1gm17kuQoNgOfQO67ClCEwCB1tQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lk1lbmJWbno4amhr,2023-05-31T20:07:40Z,UCDwLCn3w_8-q9xwhNC6H5dw,EXTREMA URGÊNCIA: A SITUAÇÃO FUGIU DO CONTROLE E EM BRASÍLIA COMPLICOU TUDO,EXTREMA URGÊNCIA: A SITUAÇÃO FUGIU DO CONTROLE E EM BRASÍLIA COMPLICOU TUDO,"{'url': 'https://i.ytimg.com/vi/MenbVnz8jhk/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/MenbVnz8jhk/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/MenbVnz8jhk/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/MenbVnz8jhk/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/MenbVnz8jhk/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,2,youtube#video,MenbVnz8jhk,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,CzJn20hJytXZ3H5X7sUlZkowvLI,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmVrUFZuZ2FFd3VN,2023-05-26T19:59:17Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: ACABA DE SER DIVULGADA DECISÃO E BRASILEIROS SÃO PEGOS DE SURPRESA,AGORA: ACABA DE SER DIVULGADA DECISÃO E BRASILEIROS SÃO PEGOS DE SURPRESA,"{'url': 'https://i.ytimg.com/vi/ekPVngaEwuM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/ekPVngaEwuM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/ekPVngaEwuM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/ekPVngaEwuM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/ekPVngaEwuM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,3,youtube#video,ekPVngaEwuM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,_QwOXw6Wc0Da63xTNLsbgxi8QLU,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmNnN3UyOUxFTndJ,2023-05-22T23:11:23Z,UCDwLCn3w_8-q9xwhNC6H5dw,AO VIVO: BRASILEIROS VOLTAM AS RUAS APÓS DECISÃO,AO VIVO: BRASILEIROS VOLTAM AS RUAS APÓS DECISÃO DE MORAES,"{'url': 'https://i.ytimg.com/vi/cg7u29LENwI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/cg7u29LENwI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/cg7u29LENwI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/cg7u29LENwI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/cg7u29LENwI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,4,youtube#video,cg7u29LENwI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,uT42To8BypO4PLd2k07Xh-UGLmU,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LldPT3FibURJa0FR,2023-05-21T23:55:57Z,UCDwLCn3w_8-q9xwhNC6H5dw,EXTREMA URGÊNCIA! DECISÃO PEGA O BRASIL DE SURPRESA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/WOOqbmDIkAQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/WOOqbmDIkAQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/WOOqbmDIkAQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/WOOqbmDIkAQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/WOOqbmDIkAQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,5,youtube#video,WOOqbmDIkAQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,3ICx87Oi3eJiWdizrQGCJZ_XhOM,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnZrZTRqdHZrbDBJ,2023-05-19T20:59:01Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: NOVA DECISÃO ACABA DE SER DIVULGADA, O BRASIL NÃO ESPERAVA","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/vke4jtvkl0I/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/vke4jtvkl0I/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/vke4jtvkl0I/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/vke4jtvkl0I/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/vke4jtvkl0I/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,6,youtube#video,vke4jtvkl0I,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,tcu_y8P9yZPSirVoUt21YY4RKEM,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlJINWJ4VDNsdFhN,2023-05-12T21:16:10Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO FAZ PRONUNCIAMENTO AO BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/RH5bxT3ltXM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/RH5bxT3ltXM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/RH5bxT3ltXM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/RH5bxT3ltXM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/RH5bxT3ltXM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,7,youtube#video,RH5bxT3ltXM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,MBY83bC4gsSa0DFosf_4YnLvSkg,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjhpOUs3WDJHUUh3,2023-05-10T23:27:24Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: DECISÃO DE MORAES FAZ PF IR PRA CIMA E SITUAÇÃO FICA COMPLICADA,AGORA: DECISÃO DE MORAES FAZ PF IR PRA CIMA E SITUAÇÃO FICA COMPLICADA,"{'url': 'https://i.ytimg.com/vi/8i9K7X2GQHw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/8i9K7X2GQHw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/8i9K7X2GQHw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/8i9K7X2GQHw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/8i9K7X2GQHw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,8,youtube#video,8i9K7X2GQHw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,bK2kjuo5nZbYgHg9jgNhKSR4Gt0,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnlZcnBuZllsRHZz,2023-05-08T15:02:00Z,UCDwLCn3w_8-q9xwhNC6H5dw,EXTREMA URGÊNCIA: VEJA O QUE ESTÃO DISCUTINDO AGORA!! MENDONÇA FOI PRA CIMA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/yYrpnfYlDvs/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/yYrpnfYlDvs/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/yYrpnfYlDvs/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/yYrpnfYlDvs/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/yYrpnfYlDvs/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,9,youtube#video,yYrpnfYlDvs,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,GaLgA52ORd-GuNqFbCVqJLTjjNc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkdTdnVTdXkxaVkw,2023-05-08T00:53:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,"ISSO É DE EXTREMA URGÊNCIA! DECISÃO MUITO IMPORTANTE SERÁ TOMADA NESTA SEMANA, O BRASIL EM ALERTA","ISSO É DE EXTREMA URGÊNCIA! DECISÃO MUITO IMPORTANTE SERÁ TOMADA NESTA SEMANA, O BRASIL EM ALERTA","{'url': 'https://i.ytimg.com/vi/GSvuSuy1iY0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/GSvuSuy1iY0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/GSvuSuy1iY0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/GSvuSuy1iY0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/GSvuSuy1iY0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,10,youtube#video,GSvuSuy1iY0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,G0Q3rFNQisANm7KlGuHR8L6B8Lk,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkxKakdQQ2dNTnkw,2023-05-03T21:59:30Z,UCDwLCn3w_8-q9xwhNC6H5dw,URGENTE: MORAES TOMA NOVA DECISÃO E MANDA APREENDER DOCUMENTOS DO EX-PRESIDENTE,URGENTE: MORAES TOMA NOVA DECISÃO E MANDA APREENDER DOCUMENTOS DO EX-PRESIDENTE,"{'url': 'https://i.ytimg.com/vi/LJjGPCgMNy0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/LJjGPCgMNy0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/LJjGPCgMNy0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/LJjGPCgMNy0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/LJjGPCgMNy0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,11,youtube#video,LJjGPCgMNy0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,2HO53AN1aUQG06VOfoB85HgjW28,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LllzaFlPZWZ3cmtJ,2023-04-28T14:43:15Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU! Pastor Silas Malafaia Revela FARSA Sobre o que está acontecendo no Brasil,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/YshYOefwrkI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/YshYOefwrkI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/YshYOefwrkI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/YshYOefwrkI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/YshYOefwrkI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,12,youtube#video,YshYOefwrkI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,62UdNrRdW5mUhaqB4sMKTBug8cY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjFjLVBhbF9Rc0tn,2023-04-27T22:26:32Z,UCDwLCn3w_8-q9xwhNC6H5dw,"EXTREMA URGÊNCIA: O JOGO VIROU, SITUAÇÃO DE ALERTA NO BRASIL","EXTREMA URGÊNCIA: O JOGO VIROU, SITUAÇÃO DE ALERTA NO BRASIL","{'url': 'https://i.ytimg.com/vi/1c-Pal_QsKg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/1c-Pal_QsKg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/1c-Pal_QsKg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/1c-Pal_QsKg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/1c-Pal_QsKg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,13,youtube#video,1c-Pal_QsKg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,EieN9_ll4b47rn2_LlbdWkLw958,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjIyTFp0UmVrbjBN,2023-04-27T15:36:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,URGENTE: NOVOS DESDOBRAMENTOS FAZ SITUAÇÃO FICAR TENSA NA CAPITAL FEDERAL,AO VIVO: NOVOS DESDOBRAMENTOS FAZ SITUAÇÃO FICAR TENSA NA CAPITAL FEDERAL,"{'url': 'https://i.ytimg.com/vi/22LZtRekn0M/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/22LZtRekn0M/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/22LZtRekn0M/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/22LZtRekn0M/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/22LZtRekn0M/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,14,youtube#video,22LZtRekn0M,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,ARn_5wlxekgvpIdsnhv6Y6i8Q6o,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lnkyd2d0bFFNMnBF,2023-04-25T22:35:25Z,UCDwLCn3w_8-q9xwhNC6H5dw,EXTREMA URGÊNCIA! LEI DA CENSURA AVANÇA E ESTÁ EM VOTAÇÃO,EXTREMA URGÊNCIA! LEI DA CENSURA AVANÇA E ESTÁ EM VOTAÇÃO,"{'url': 'https://i.ytimg.com/vi/y2wgtlQM2pE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/y2wgtlQM2pE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/y2wgtlQM2pE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/y2wgtlQM2pE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/y2wgtlQM2pE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,15,youtube#video,y2wgtlQM2pE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,a71BpfBMmO14m10IAsil1ZZe62I,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnVacHZhb2Zid0ZN,2023-04-25T18:23:18Z,UCDwLCn3w_8-q9xwhNC6H5dw,ISSO É URGENTE: A CHAPA COMEÇOU A ESQUENTAR EM BRASÍLIA E NOVOS DESDOBRAMENTOS,ISSO É URGENTE: A CHAPA COMEÇOU A ESQUENTAR EM BRASÍLIA E NOVOS DESDOBRAMENTOS,"{'url': 'https://i.ytimg.com/vi/uZpvaofbwFM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/uZpvaofbwFM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/uZpvaofbwFM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/uZpvaofbwFM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/uZpvaofbwFM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,16,youtube#video,uZpvaofbwFM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,jLNhlJhvhl7bP734R9pIK-hK6HQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlhGbGVocldNTE1V,2023-04-24T21:22:21Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTÍSSIMO! CPMI ESTÁ CAUSANDO TEMOR EM BRASÍLIA, VEJA A SITUAÇÃO","URGENTÍSSIMO! CPMI ESTÁ CAUSANDO TEMOR EM BRASÍLIA, VEJA A SITUAÇÃO","{'url': 'https://i.ytimg.com/vi/XFlehrWMLMU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/XFlehrWMLMU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/XFlehrWMLMU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/XFlehrWMLMU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/XFlehrWMLMU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,17,youtube#video,XFlehrWMLMU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,yKv5DkDzUfbgYEoaGe24pemBgOw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lld2NkNIN1ZlTFJz,2023-04-23T02:19:30Z,UCDwLCn3w_8-q9xwhNC6H5dw,ISSO É URGENTE: NOVAS REVELAÇÕES VEM A PÚBLICO E TENSÃO AUMENTA,ISSO É URGENTE: NOVAS REVELAÇÕES VEM A PÚBLICO E TENSÃO AUMENTA,"{'url': 'https://i.ytimg.com/vi/Wv6CH7VeLRs/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Wv6CH7VeLRs/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Wv6CH7VeLRs/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Wv6CH7VeLRs/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Wv6CH7VeLRs/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,18,youtube#video,Wv6CH7VeLRs,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,6aYdWrCglZOtve-y0XX1-1Gqiew,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjRkYkpienFoZDF3,2023-04-22T19:23:09Z,UCDwLCn3w_8-q9xwhNC6H5dw,EXTREMA URGÊNCIA! PROVA CABAL VEM A PÚBLICO E JÁ ESTÁ TUDO ACERTADO,EXTREMA URGÊNCIA! PROVA CABAL VEM A PÚBLICO E JÁ ESTÁ TUDO ACERTADO,"{'url': 'https://i.ytimg.com/vi/4dbJbzqhd1w/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/4dbJbzqhd1w/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/4dbJbzqhd1w/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/4dbJbzqhd1w/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/4dbJbzqhd1w/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,19,youtube#video,4dbJbzqhd1w,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,ftTtf4ol3aLxC8T686VL2XNdfps,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmZfcFFBcG1tWjI0,2023-04-21T22:22:46Z,UCDwLCn3w_8-q9xwhNC6H5dw,URGENTE: MORAES ACABA DE TOMAR DECISÃO QUE COMPROMETE OS PLANOS EM BRASÍLIA,URGENTE: MORAES ACABA DE TOMAR DECISÃO QUE COMPROMETE OS PLANOS EM BRASÍLIA,"{'url': 'https://i.ytimg.com/vi/f_pQApmmZ24/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/f_pQApmmZ24/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/f_pQApmmZ24/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/f_pQApmmZ24/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/f_pQApmmZ24/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,20,youtube#video,f_pQApmmZ24,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,RsGjq13Ftz0NXvPt5tWHlSiAsmo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlY3b0lFdXd3RlBr,2023-04-20T15:41:56Z,UCDwLCn3w_8-q9xwhNC6H5dw,"ACABOU! A SITUAÇÃO FUGE DO CONTROLE, E SITUAÇÃO FICA TENSA EM BRASÍLIA","ACABOU! A SITUAÇÃO FUGIU DO CONTROLE, E SITUAÇÃO FICA TENSA EM BRASÍLIA","{'url': 'https://i.ytimg.com/vi/V7oIEuwwFPk/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/V7oIEuwwFPk/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/V7oIEuwwFPk/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/V7oIEuwwFPk/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/V7oIEuwwFPk/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,21,youtube#video,V7oIEuwwFPk,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,YeBkMbmcbfaPUcSHx5ZsQj7MmC4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjJPZk1TQXBudUY0,2023-04-19T23:12:26Z,UCDwLCn3w_8-q9xwhNC6H5dw,POR ESSA ELES NÃO ESPERAVAM! VAZA IMAGENS COMPROMETEDORAS E A SITUAÇÃO MUDOU,POR ESSA ELES NÃO ESPERAVAM! VAZA IMAGENS COMPROMETEDORAS E A SITUAÇÃO MUDOU,"{'url': 'https://i.ytimg.com/vi/2OfMSApnuF4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/2OfMSApnuF4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/2OfMSApnuF4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/2OfMSApnuF4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/2OfMSApnuF4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,22,youtube#video,2OfMSApnuF4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,kRbuShGIkIGx2sqd90GnLiQIyYI,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlliOW1zbGV3SmFR,2023-04-19T14:49:03Z,UCDwLCn3w_8-q9xwhNC6H5dw,DECISÃO DE AGORA DEIXA O BRASIL EM ALERTA,DECISÃO DE AGORA DEIXA O BRASIL EM ALERTA,"{'url': 'https://i.ytimg.com/vi/Yb9mslewJaQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Yb9mslewJaQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Yb9mslewJaQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Yb9mslewJaQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Yb9mslewJaQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,23,youtube#video,Yb9mslewJaQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,_MajPctfJI94aiqaPI0yfm7URhY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlZEY3pYQTV5VkhN,2023-04-18T00:54:39Z,UCDwLCn3w_8-q9xwhNC6H5dw,CPMI É CONFIRMADA - CONSEGUIMOS VENCER -- LULA VAI PERDER A CADEIRA,CPMI É CONFIRMADA - CONSEGUIMOS VENCER -- LULA VAI PERDER A CADEIRA,"{'url': 'https://i.ytimg.com/vi/VDczXA5yVHM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/VDczXA5yVHM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/VDczXA5yVHM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/VDczXA5yVHM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/VDczXA5yVHM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,24,youtube#video,VDczXA5yVHM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,PMLzUPUU-FjIHl-UbcF8n29z52c,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lk1kM3BzTFBlWmRF,2023-04-17T19:54:08Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU DE SER DIVULGADA! A RESPOSTA QUE O BRASIL ESPERAVA,ACABOU DE SER DIVULGADA! A RESPOSTA QUE O BRASIL ESPERAVA,"{'url': 'https://i.ytimg.com/vi/Md3psLPeZdE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Md3psLPeZdE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Md3psLPeZdE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Md3psLPeZdE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Md3psLPeZdE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,25,youtube#video,Md3psLPeZdE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,-SXYlszOVgEsz6QDsVTUyu9axzs,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnZkN3E2ajhYYkU0,2023-04-17T15:22:53Z,UCDwLCn3w_8-q9xwhNC6H5dw,DECISÃO PEGA O BRASIL DE SURPRESA,DECISÃO PEGA O BRASIL DE SURPRESA,"{'url': 'https://i.ytimg.com/vi/vd7q6j8XbE4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/vd7q6j8XbE4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/vd7q6j8XbE4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/vd7q6j8XbE4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/vd7q6j8XbE4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,26,youtube#video,vd7q6j8XbE4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,nm3qNewvyy_TrPZMEs0i6jXH-h4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ll9taTFwQktuRWZ3,2023-04-15T20:45:56Z,UCDwLCn3w_8-q9xwhNC6H5dw,A GRANDE JOGADA! VEJA O QUE ESTÃO PLANEJANDO FAZER AGORA!!,A GRANDE JOGADA! VEJA O QUE ESTÃO PLANEJANDO FAZER AGORA!!,"{'url': 'https://i.ytimg.com/vi/_mi1pBKnEfw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/_mi1pBKnEfw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/_mi1pBKnEfw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/_mi1pBKnEfw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/_mi1pBKnEfw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,27,youtube#video,_mi1pBKnEfw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,Ctw9wQfwYte1haKNGd8amf3YSso,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Llgta3k2ZWVFZE9v,2023-04-15T14:42:11Z,UCDwLCn3w_8-q9xwhNC6H5dw,Não tem pra onde Correr! ALGO ESTRANHO Está acontecendo no Brasil,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/X-ky6eeEdOo/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/X-ky6eeEdOo/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/X-ky6eeEdOo/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/X-ky6eeEdOo/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/X-ky6eeEdOo/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,28,youtube#video,X-ky6eeEdOo,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,B3zIfzdplDg-u01ZRy6JCu66xFw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlBSS00wNF9laVhZ,2023-04-14T21:48:43Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: MORAES TOMA DECISÃO CONTRA BOLSONARO, VEJA COMO ESTÁ A SITUAÇÃO","URGENTE: MORAES TOMA DECISÃO CONTRA BOLSONARO, VEJA COMO ESTÁ A SITUAÇÃO","{'url': 'https://i.ytimg.com/vi/PRKM04_eiXY/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/PRKM04_eiXY/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/PRKM04_eiXY/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/PRKM04_eiXY/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/PRKM04_eiXY/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,29,youtube#video,PRKM04_eiXY,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,5fvH9Fkp-2xym9SmtJ9gFbxwRvw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkV1dThzY0xmenNR,2023-04-14T15:36:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: VEJA A SITUAÇÃO EM BRASÍLIA, COMPLICOU DEMAIS","URGENTE: VEJA A SITUAÇÃO EM BRASÍLIA, COMPLICOU DEMAIS","{'url': 'https://i.ytimg.com/vi/Euu8scLfzsQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Euu8scLfzsQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Euu8scLfzsQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Euu8scLfzsQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Euu8scLfzsQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,30,youtube#video,Euu8scLfzsQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,qCmgm2WX2lxEn-aK2L77cI0Orxo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmpTT2FWS0s3S0t3,2023-04-13T22:06:32Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: CPMI É CONFIRMADA, VEJA O QUE ESTÁ ACONTECENDO EM BRASÍLIA","AGORA: CPMI É CONFIRMADA, VEJA O QUE ESTÁ ACONTECENDO EM BRASÍLIA","{'url': 'https://i.ytimg.com/vi/jSOaVKK7KKw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/jSOaVKK7KKw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/jSOaVKK7KKw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/jSOaVKK7KKw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/jSOaVKK7KKw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,31,youtube#video,jSOaVKK7KKw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,895LHnQe9_jgv7IqEqUkr1qa2bg,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkI1aUlieGZTYjFz,2023-04-13T14:18:07Z,UCDwLCn3w_8-q9xwhNC6H5dw,"MEU DEUS! Agora a SITUAÇÃO Complicou Demais, Isso é Muito Sério","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/B5iIbxfSb1s/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/B5iIbxfSb1s/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/B5iIbxfSb1s/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/B5iIbxfSb1s/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/B5iIbxfSb1s/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,32,youtube#video,B5iIbxfSb1s,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,eRVARdG7bXjrhtdnirwP7Kxx1Hg,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlRLVFR1Mm1rSVB3,2023-04-11T18:13:42Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU! TUDO INDICA QUE LULA NÃO FICA NA CADEIRA,ACABOU! TUDO INDICA QUE LULA NÃO FICA NA CADEIRA,"{'url': 'https://i.ytimg.com/vi/TKTTu2mkIPw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/TKTTu2mkIPw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/TKTTu2mkIPw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/TKTTu2mkIPw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/TKTTu2mkIPw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,33,youtube#video,TKTTu2mkIPw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,7DVlXCZBICaL2PzaeqL-PW1O4VA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmQ1ckU5ZmhUX1ln,2023-04-08T21:00:04Z,UCDwLCn3w_8-q9xwhNC6H5dw,URGENTE! Bolsonaro toma atitude inesperada e Surpreende a todos,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/d5rE9fhT_Yg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/d5rE9fhT_Yg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/d5rE9fhT_Yg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/d5rE9fhT_Yg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/d5rE9fhT_Yg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,34,youtube#video,d5rE9fhT_Yg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,pR2u2kyTiKVYn2-Xkpcvr2BGihA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnlpMG5XUmFZWVE0,2023-04-08T14:44:57Z,UCDwLCn3w_8-q9xwhNC6H5dw,DECISÃO IMPORTANTE ESTÁ NAS MÃOS DE ANDRÉ MENDONÇA! A SITUAÇÃO ESTÁ COMPLICADA PARA ELES!!!,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/yi0nWRaYYQ4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/yi0nWRaYYQ4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/yi0nWRaYYQ4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/yi0nWRaYYQ4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/yi0nWRaYYQ4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,35,youtube#video,yi0nWRaYYQ4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,y6ERIICaTjzPW-UGYx52oeXgiaQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LklrN2tHMkgta3dF,2023-04-08T01:43:37Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA! ACABA DE SER CONFIRMADO, BOLSONARO VAI RETOMAR A LIDERANÇA","AGORA! ACABA DE SER CONFIRMADO, BOLSONARO VAI RETOMAR LIDERANÇA","{'url': 'https://i.ytimg.com/vi/Ik7kG2H-kwE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Ik7kG2H-kwE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Ik7kG2H-kwE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Ik7kG2H-kwE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Ik7kG2H-kwE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,36,youtube#video,Ik7kG2H-kwE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,381f9TQg0HJ36s4tduIaAHUYV3E,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlVvV3pjbXpLR0R3,2023-04-07T18:39:03Z,UCDwLCn3w_8-q9xwhNC6H5dw,Ninguém Esperava! Bolsonaro é pego de Surpresa ao Visitar Escola da Filha,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/UoWzcmzKGDw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/UoWzcmzKGDw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/UoWzcmzKGDw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/UoWzcmzKGDw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/UoWzcmzKGDw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,37,youtube#video,UoWzcmzKGDw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,1HGfPGGqE6se3oV-GCnEEi9KcHs,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjYyTXFxcDBPZFpV,2023-04-05T14:43:51Z,UCDwLCn3w_8-q9xwhNC6H5dw,Foi TERRÍVEL O que aconteceu na CRECHE  de Blumenau/SC! Veja as últimas Informações,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/62Mqqp0OdZU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/62Mqqp0OdZU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/62Mqqp0OdZU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/62Mqqp0OdZU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/62Mqqp0OdZU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,38,youtube#video,62Mqqp0OdZU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,5F-Xn5NisPeHZOvzncHaYFVwVYw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjZ5cGw5RU10Z2s0,2023-04-04T14:59:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,ISSO É MUITO SÉRIO! Bolsonaro Faz alerta ao BRASIL sobre o que está acontecendo,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/6ypl9EMtgk4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/6ypl9EMtgk4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/6ypl9EMtgk4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/6ypl9EMtgk4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/6ypl9EMtgk4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,39,youtube#video,6ypl9EMtgk4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,GmfV6XhqJ80X0TScmKc6vPHvtVU,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lkw0YlZOeFc2c2hV,2023-04-03T15:00:19Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU DE SER ENTREGUE PROVA-CHAVE CONTRA LULA E IMEACHEMENT VAI ACONTECER! PÂNlCO EM BRASÍLIA!!,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/L4bVNxW6shU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/L4bVNxW6shU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/L4bVNxW6shU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/L4bVNxW6shU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/L4bVNxW6shU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,40,youtube#video,L4bVNxW6shU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,bgiYnKXKAsCh0s-eFP1G5b1I7GI,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnFVamlWbVRmaUVV,2023-03-31T18:22:08Z,UCDwLCn3w_8-q9xwhNC6H5dw,LULA É AVISADO QUE O IMPEACHMENT É INEVITÁVEL! JÁ NÃO DORME MAIS,LULA É AVISADO QUE O IMPEACHMENT É INEVITÁVEL! JÁ NÃO DORME MAIS,"{'url': 'https://i.ytimg.com/vi/qUjiVmTfiEU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/qUjiVmTfiEU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/qUjiVmTfiEU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/qUjiVmTfiEU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/qUjiVmTfiEU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,41,youtube#video,qUjiVmTfiEU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,1HoesOuPiQ925QKEvUhipGY8oD8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZ1RTBCc3VBam8w,2023-03-30T21:52:01Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO SE PRONUNCIA SOBRE O RETORNO AO BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/FuE0BsuAjo0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/FuE0BsuAjo0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/FuE0BsuAjo0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/FuE0BsuAjo0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/FuE0BsuAjo0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,42,youtube#video,FuE0BsuAjo0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,kXLxFbT4trPXgpRJ-Qtf9bHSL5E,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnhLMTF6aXJpNmFN,2023-03-30T17:19:32Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA! BOLSONARO FAZ PRIMEIRO PRONUNCIAMENTO APÓS O RETORNO AO BRASIL,AGORA! BOLSONARO FAZ PRIMEIRO PRONUNCIAMENTO APÓS O RETORNO AO BRASIL,"{'url': 'https://i.ytimg.com/vi/xK11ziri6aM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/xK11ziri6aM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/xK11ziri6aM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/xK11ziri6aM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/xK11ziri6aM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,43,youtube#video,xK11ziri6aM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,NAVRykuAEFJgs3vf0d2t9Dr9kME,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnNjMnBZR3V1Vlc4,2023-03-30T12:19:34Z,UCDwLCn3w_8-q9xwhNC6H5dw,AO VIVO! BOLSONARO RETORNA AO BRASIL,AO VIVO! BOLSONARO RETORNA AO BRASIL,"{'url': 'https://i.ytimg.com/vi/sc2pYGuuVW8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/sc2pYGuuVW8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/sc2pYGuuVW8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/sc2pYGuuVW8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/sc2pYGuuVW8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,44,youtube#video,sc2pYGuuVW8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,fokIB4z5uok85oVDfTKjiCCHghE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Li05bU5Mc1EyMEow,2023-03-30T02:12:02Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU! IMPEACHMENT DO LULA É PROTOCOLODO,ACABOU! IMPEACHMENT DO LULA É PROTOCOLODO,"{'url': 'https://i.ytimg.com/vi/-9mNLsQ20J0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/-9mNLsQ20J0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/-9mNLsQ20J0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/-9mNLsQ20J0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/-9mNLsQ20J0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,45,youtube#video,-9mNLsQ20J0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,5A8OtScjthmo4CjgeHaLL-qqq-w,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnlhT2FKcFA0clBj,2023-03-29T14:51:25Z,UCDwLCn3w_8-q9xwhNC6H5dw,Foi só o Ele dizer que voltaria ao BRASIL que o Desespero bateu!,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/yaOaJpP4rPc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/yaOaJpP4rPc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/yaOaJpP4rPc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/yaOaJpP4rPc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/yaOaJpP4rPc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,46,youtube#video,yaOaJpP4rPc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,xFttYDX38nTgkCC4t-YB_9o2Ig8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjVtcGZCRlg5YWVj,2023-03-28T19:05:14Z,UCDwLCn3w_8-q9xwhNC6H5dw,COMEÇOU! Flávio Dino é Enquadrado e tem que dar Explicações! ESTÃO TODOS DESESPERADOS EM BRASÍLIA,COMEÇOU! Flávio Dino é Enquadrado e tem que dar Explicações! ESTÃO TODOS DESESPERADOS EM BRASÍLIA,"{'url': 'https://i.ytimg.com/vi/5mpfBFX9aec/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/5mpfBFX9aec/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/5mpfBFX9aec/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/5mpfBFX9aec/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/5mpfBFX9aec/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,47,youtube#video,5mpfBFX9aec,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,4quZ75NfyyB3rP4X7_HM_XMF5zo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmVnbkpCRmlMdGlZ,2023-03-24T18:05:38Z,UCDwLCn3w_8-q9xwhNC6H5dw,"🚨BOMBA ! CPMI CONFIRMADA, LULA NÃO VAI FICAR NA CADEIRA","🚨BOMBA ! CPMI CONFIRMADA, LULA NÃO VAI FICAR NA CADEIRA","{'url': 'https://i.ytimg.com/vi/egnJBFiLtiY/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/egnJBFiLtiY/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/egnJBFiLtiY/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/egnJBFiLtiY/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/egnJBFiLtiY/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,48,youtube#video,egnJBFiLtiY,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,SQGyZGTKK1f47m9DXvmlw3KuKW8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlFLejNhRVByc0h3,2023-03-23T18:03:21Z,UCDwLCn3w_8-q9xwhNC6H5dw,"CPMI- CONSEGUIMOS VENCER -- LULA VAI PERDER A CADEIRA, VEJA COMO ESTÁ BRASÍLIA AGORA","CPMI- CONSEGUIMOS VENCER -- LULA VAI PERDER A CADEIRA, VEJA COMO ESTÁ BRASÍLIA AGORA","{'url': 'https://i.ytimg.com/vi/QKz3aEPrsHw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/QKz3aEPrsHw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/QKz3aEPrsHw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/QKz3aEPrsHw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/QKz3aEPrsHw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,49,youtube#video,QKz3aEPrsHw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNESQ,2023-06-06 00:53:02.357252
+youtube#playlistItem,YoLMliGRw3IBVC_VuyJYzjF8plE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ljljc0NjdXZDTk9Z,2023-03-23T14:46:31Z,UCDwLCn3w_8-q9xwhNC6H5dw,COMEÇOU! A CPMI vai DERRUBAR LULA. Motivo causa DESESPERO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/9csCcuvCNOY/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/9csCcuvCNOY/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/9csCcuvCNOY/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/9csCcuvCNOY/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/9csCcuvCNOY/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,50,youtube#video,9csCcuvCNOY,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,CcLQ4bmJphZ8xFev6cMKqtQumlc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ll85X1NQSFdrQjM4,2023-03-21T15:21:12Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AO VIVO! O RETORNO AO BRASIL, GRANDE DIA E A DECISÃO EM BRASILÍA, MICHELLE TOMA POSSE DO PL MULHER","AO VIVO! O RETORNO AO BRASIL, GRANDE DIA E A DECISÃO EM BRASILÍA, MICHELLE TOMA POSSE DO PL MULHER","{'url': 'https://i.ytimg.com/vi/_9_SPHWkB38/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/_9_SPHWkB38/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/_9_SPHWkB38/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/_9_SPHWkB38/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/_9_SPHWkB38/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,51,youtube#video,_9_SPHWkB38,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,kg2dPZ1pM7vBnp8JZfHLjPajXyw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmlvZ19wak9vMjh3,2023-03-20T20:59:50Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: BOLSONARO ACERTA DECISÃO, VEJA O QUE ELE VAI FAZER APÓS RETORNAR AO BRASIL","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/iog_pjOo28w/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/iog_pjOo28w/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/iog_pjOo28w/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/iog_pjOo28w/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/iog_pjOo28w/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,52,youtube#video,iog_pjOo28w,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,jniy3U_JZuHuedt9ti01Azt2D7w,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkRDVU02clMtSGRF,2023-03-19T19:45:33Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLS0NARO VAI PRACIMA E PEDE QUE CPMI ESCLAREÇA TUDO QUE ACONTECEU! PRONUNCIAMENTO AO BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/DCUM6rS-HdE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/DCUM6rS-HdE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/DCUM6rS-HdE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/DCUM6rS-HdE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/DCUM6rS-HdE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,53,youtube#video,DCUM6rS-HdE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,Yc3o0oKhu_bN64EWVY7gDxzOThE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnJJTF96SUo5NmZR,2023-03-17T14:32:23Z,UCDwLCn3w_8-q9xwhNC6H5dw,BATEU O DESESPERO! Michelle Bolsonaro DESBANCA Vários nomes e aparece no topo da lista!,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/rIL_zIJ96fQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/rIL_zIJ96fQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/rIL_zIJ96fQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/rIL_zIJ96fQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/rIL_zIJ96fQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,54,youtube#video,rIL_zIJ96fQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,kKI_Qo3ybVj8zIcWa97p25xUiKQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjhIem9ybE1mWHVz,2023-03-16T14:57:53Z,UCDwLCn3w_8-q9xwhNC6H5dw,ANDRÉ MENDONÇA DÁ XEQUE-MATE E CAUSA PÂNlCO EM BRASÍLIA!! JOGADA DE MESTRE!!,"ANDRÉ MENDONÇA DÁ XEQUE-MATE E CAUSA PÂNlCO EM BRASÍLIA!! JOGADA DE MESTRE!!
+Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/8HzorlMfXus/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/8HzorlMfXus/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/8HzorlMfXus/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/8HzorlMfXus/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/8HzorlMfXus/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,55,youtube#video,8HzorlMfXus,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,HDk4qenShkKPcFaCP9sLVkRzFco,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjB6VXBwa1FGc2dF,2023-03-15T23:22:25Z,UCDwLCn3w_8-q9xwhNC6H5dw,NINGUÉM ESPERAVA! CPI TOMA RUMO DIFERENTE E SURPREENDE A TODOS EM BRASÍLIA,NINGUÉM ESPERAVA! CPI TOMA RUMO DIFERENTE E SURPREENDE A TODOS EM BRASÍLIA,"{'url': 'https://i.ytimg.com/vi/0zUppkQFsgE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/0zUppkQFsgE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/0zUppkQFsgE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/0zUppkQFsgE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/0zUppkQFsgE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,56,youtube#video,0zUppkQFsgE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,Nm4zLNf5ZjRxCXx4bDkRgaFceTY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkhXdGNNRWRXTHVj,2023-03-15T14:57:46Z,UCDwLCn3w_8-q9xwhNC6H5dw,MICHELLE EMOCIONA AO SE DECLARAR E BOLSONARO ANUNCIA RETORNO AO BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/HWtcMEdWLuc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/HWtcMEdWLuc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/HWtcMEdWLuc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/HWtcMEdWLuc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/HWtcMEdWLuc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,57,youtube#video,HWtcMEdWLuc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,XzS59nUpFNMZz4P7I0DJ_5v33xg,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmsxUkwxZmd5Rm9r,2023-03-14T15:00:04Z,UCDwLCn3w_8-q9xwhNC6H5dw,ESSA NINGUÉM ESPERAVA! NOVA ARTICULAÇÃO É ANUNCIADA E MICHELLE VAI A ORLANDO! VEJA O QUE ACONTECEU,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/k1RL1fgyFok/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/k1RL1fgyFok/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/k1RL1fgyFok/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/k1RL1fgyFok/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/k1RL1fgyFok/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,58,youtube#video,k1RL1fgyFok,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,ZCSYwj-g7j8yGYeISxWR-f0McW4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnJuNW5EdmVMQWtR,2023-03-13T20:16:48Z,UCDwLCn3w_8-q9xwhNC6H5dw,ALEXANDRE DE MORAES NOVAMENTE TOMA DECISÃO E NOTÍCIA PEGA TODOS DE SURPRESA! ISSO É MUITO SÉRIO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/rn5nDveLAkQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/rn5nDveLAkQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/rn5nDveLAkQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/rn5nDveLAkQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/rn5nDveLAkQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,59,youtube#video,rn5nDveLAkQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,HgcxVSX4Ex4lHix3EJE5CKf_bf8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjBYVDhOdlJjMlpr,2023-03-12T14:55:15Z,UCDwLCn3w_8-q9xwhNC6H5dw,MINISTRO ANDRÉ MENDONÇA ATERRORIZA AO TOMAR DECISÃO QUE PEGOU TODOS DE SURPRESA! NINGUÉM ESPERAVA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/0XT8NvRc2Zk/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/0XT8NvRc2Zk/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/0XT8NvRc2Zk/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/0XT8NvRc2Zk/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/0XT8NvRc2Zk/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,60,youtube#video,0XT8NvRc2Zk,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,HJBknmWTcbPrpQTjByoZJ35OzQo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lm0xSWt3QkJQMF9v,2023-03-10T20:01:36Z,UCDwLCn3w_8-q9xwhNC6H5dw,STF BATE O MARTELO! ANDRÉ MENDONÇA VAI PRA CIMA E DECISÃO É AGUARDADA EM BRASÍLIA,"STF BATE O MARTELO! ANDRÉ MENDONÇA VAI PRA CIMA E DECISÃO É AGUARDADA EM BRASÍLIA.
+André Mendonça, ministro, nikolas ferreira, bolsonaro
+
+Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/m1IkwBBP0_o/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/m1IkwBBP0_o/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/m1IkwBBP0_o/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/m1IkwBBP0_o/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/m1IkwBBP0_o/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,61,youtube#video,m1IkwBBP0_o,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,JC7ycaQdSZYoBuuj4ADiYDZK-Xw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjV4c0t5Z3ozMHNV,2023-03-09T22:14:06Z,UCDwLCn3w_8-q9xwhNC6H5dw,Moraes Toma DECISÃO e é comemorada a Vitória! Por Essa Nem Eu Esperava,Moraes Toma DECISÃO e é comemorada a Vitória! Por Essa Nem Eu Esperava,"{'url': 'https://i.ytimg.com/vi/5xsKygz30sU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/5xsKygz30sU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/5xsKygz30sU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/5xsKygz30sU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/5xsKygz30sU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,62,youtube#video,5xsKygz30sU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,Ig68cWV4cnEA7EXTpOXtvpo87CY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lll4eWl4dDRIWGdV,2023-03-08T20:18:15Z,UCDwLCn3w_8-q9xwhNC6H5dw,A ALEGRIA DO LULA TÁ CHEGANDO AO FIM,"A ALEGRIA DO LULA TÁ CHEGANDO AO FIM
+Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Yxyixt4HXgU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Yxyixt4HXgU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Yxyixt4HXgU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Yxyixt4HXgU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Yxyixt4HXgU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,63,youtube#video,Yxyixt4HXgU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,AkqQONen2K5XW4OckWg492S1_aU,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZTTWJhVGV5NlFR,2023-03-08T18:37:53Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA!! ALEXANDRE DE MORAES ACABA DE CEDER! POR ESSA NINGUÉM ESPERAVA, VEJA O QUE ESTÁ ACONTECENDO","AGORA!! ALEXANDRE DE MORAES ACABA DE CEDER! POR ESSA NINGUÉM ESPERAVA, VEJA O QUE ESTÁ ACONTECENDO","{'url': 'https://i.ytimg.com/vi/FSMbaTey6QQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/FSMbaTey6QQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/FSMbaTey6QQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/FSMbaTey6QQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/FSMbaTey6QQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,64,youtube#video,FSMbaTey6QQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,CGQUhRhffo8oh6MkdRY1SR4i7gM,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlhqZlF1V2lvRFE0,2023-03-07T19:59:52Z,UCDwLCn3w_8-q9xwhNC6H5dw,"Triste: Ex-ministra de Bolsonaro, Damares Alves fala sobre estado de saúde e entristece o Brasil","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/XjfQuWioDQ4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/XjfQuWioDQ4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/XjfQuWioDQ4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/XjfQuWioDQ4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/XjfQuWioDQ4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,65,youtube#video,XjfQuWioDQ4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,2TNwvrSyApk0D4fj6OpNXjbYZJY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmF5N3BUMWhGNHhj,2023-03-07T18:25:01Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: MORAES VAI ATÉ O PRESÍDIO EM BRASÍLIA E SITUAÇÃO GERA GRANDE APREENSÃO,AGORA: MORAES VAI ATÉ O PRESÍDIO EM BRASÍLIA E SITUAÇÃO GERA GRANDE APREENSÃO,"{'url': 'https://i.ytimg.com/vi/ay7pT1hF4xc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/ay7pT1hF4xc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/ay7pT1hF4xc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/ay7pT1hF4xc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/ay7pT1hF4xc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,66,youtube#video,ay7pT1hF4xc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,LeahuXElFKMeo82qNAXvhFq0YYE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmNXSG9RUVBIZUM4,2023-03-06T01:06:15Z,UCDwLCn3w_8-q9xwhNC6H5dw,Pedrinho Matador fez o L para acabar com a violência e se deu mal,,"{'url': 'https://i.ytimg.com/vi/cWHoQQPHeC8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/cWHoQQPHeC8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/cWHoQQPHeC8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/cWHoQQPHeC8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/cWHoQQPHeC8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,67,youtube#video,cWHoQQPHeC8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,Chs7WyKuQHLppJ8XY1WwEfwPynA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjlLNVZEcFo3b2tZ,2023-03-04T19:59:38Z,UCDwLCn3w_8-q9xwhNC6H5dw,"Pastor Silas Malafaia Perde a PACIÊNCIA com a Situação do BRASIL, e manda Recado em vídeo","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/9K5VDpZ7okY/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/9K5VDpZ7okY/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/9K5VDpZ7okY/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/9K5VDpZ7okY/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/9K5VDpZ7okY/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,68,youtube#video,9K5VDpZ7okY,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,_SsvkMv_rBU_418NNB0Z-6bOUjc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ll9NejJGQVUzQnNn,2023-03-04T15:00:11Z,UCDwLCn3w_8-q9xwhNC6H5dw,"ACABOU A FARSA! A VERDADE sobre ""As joias"" MICHELLE BOLSONARO Vem a público esclarecer a notícia","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/_Mz2FAU3Bsg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/_Mz2FAU3Bsg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/_Mz2FAU3Bsg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/_Mz2FAU3Bsg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/_Mz2FAU3Bsg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,69,youtube#video,_Mz2FAU3Bsg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,mgKqNtsynSUz0IeV6Bu4QPF8h0o,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlUyUmlISEVHNW8w,2023-03-03T19:56:13Z,UCDwLCn3w_8-q9xwhNC6H5dw,URGENTE: BOLSONARO TOMA DECISÃO E ELA É ANUNCIADA AO BRASIL PELO VALDEMAR! ISSO É MUITO IMPORTANTE,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/U2RiHHEG5o0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/U2RiHHEG5o0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/U2RiHHEG5o0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/U2RiHHEG5o0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/U2RiHHEG5o0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,70,youtube#video,U2RiHHEG5o0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,nKGziHGGb-5KCsLecxwzm-D1wuc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmFyQ3ozMkJUZUZn,2023-03-01T19:33:13Z,UCDwLCn3w_8-q9xwhNC6H5dw,🚨 AO VIVO! MORAES TOMA OUTRA DECISÃO DE ÚLTIMA HORA E CLIMA EM BRASÍLIA FICA TENSO,🚨 AO VIVO! MORAES TOMA OUTRA DECISÃO DE ÚLTIMA HORA E CLIMA EM BRASÍLIA FICA TENSO,"{'url': 'https://i.ytimg.com/vi/arCz32BTeFg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/arCz32BTeFg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/arCz32BTeFg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/arCz32BTeFg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/arCz32BTeFg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,71,youtube#video,arCz32BTeFg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,Zqt4XphfZnLvgITsNXP4SuznxVY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlBvc2xoSWZWVDJr,2023-03-01T14:09:34Z,UCDwLCn3w_8-q9xwhNC6H5dw,IMPORTANTE Decisão é anunciada! VEJA A ESTRATÉGIA MONTADA | o BRASIL TODO PRECISA SABER,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/PoslhIfVT2k/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/PoslhIfVT2k/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/PoslhIfVT2k/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/PoslhIfVT2k/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/PoslhIfVT2k/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,72,youtube#video,PoslhIfVT2k,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,7MiUMpDTo_mkTa5hBkqeBoEZLD4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlFLM01WeV9fSjZR,2023-02-28T19:44:38Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: AGORA É OFICIAL, CPI EM ANDAMENTO, VEJA COMO ESTÁ BRASÍLIA AGORA","URGENTE: AGORA É OFICIAL, CPI EM ANDAMENTO, VEJA COMO ESTÁ BRASÍLIA AGORA","{'url': 'https://i.ytimg.com/vi/QK3MVy__J6Q/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/QK3MVy__J6Q/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/QK3MVy__J6Q/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/QK3MVy__J6Q/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/QK3MVy__J6Q/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,73,youtube#video,QK3MVy__J6Q,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,ukzkQdkhkosNtE71mDXDaCi2o_4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlpOaGctVUFkX0gw,2023-02-28T15:23:44Z,UCDwLCn3w_8-q9xwhNC6H5dw,URGENTE: MORAES TOMA DECISÃO E MANDA LIBERAR MANIFESTANTES | CPMI É PROTOCOLADA EM BRASÍLIA,URGENTE: MORAES TOMA DECISÃO E MANDA LIBERAR MANIFESTANTES | CPMI É PROTOCOLADA EM BRASÍLIA,"{'url': 'https://i.ytimg.com/vi/ZNhg-UAd_H0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/ZNhg-UAd_H0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/ZNhg-UAd_H0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/ZNhg-UAd_H0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/ZNhg-UAd_H0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,74,youtube#video,ZNhg-UAd_H0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,f8gL3WQ7d9fBStmjhCl3mJVYvOE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlNuMjdLY0xjQ21B,2023-02-27T23:20:53Z,UCDwLCn3w_8-q9xwhNC6H5dw,🚨 ACABARAM DE ANUNCIAR! | NOVA DECISÃO DE MORAES PEGA TODOS DE SURPRESA | IMPOSTOS VOLTARÃO....,🚨 ACABARAM DE ANUNCIAR! | NOVA DECISÃO DE MORAES PEGA TODOS DE SURPRESA | IMPOSTOS VOLTARÃO....,"{'url': 'https://i.ytimg.com/vi/Sn27KcLcCmA/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Sn27KcLcCmA/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Sn27KcLcCmA/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Sn27KcLcCmA/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Sn27KcLcCmA/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,75,youtube#video,Sn27KcLcCmA,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,KsM-TkIenUo6QV_LiZ5leTkl8yk,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZ4OXNnLVV5UDB3,2023-02-26T20:25:59Z,UCDwLCn3w_8-q9xwhNC6H5dw,🚨 ACONTECEU! NO SUPREMO TRIBUNAL FEDERAL NOVO PEDIDO É FEITO | VEJA O DESDOBRAMENTOS EM BRASÍLIA,🚨 ACONTECEU! NO SUPREMO TRIBUNAL FEDERAL NOVO PEDIDO É FEITO | VEJA O DESDOBRAMENTOS EM BRASÍLIA,"{'url': 'https://i.ytimg.com/vi/Fx9sg-UyP0w/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Fx9sg-UyP0w/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Fx9sg-UyP0w/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Fx9sg-UyP0w/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Fx9sg-UyP0w/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,76,youtube#video,Fx9sg-UyP0w,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,V4R5gDUbYG7_N2BebbfmNPYuuTY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmFJR3JueGNROUVR,2023-02-25T20:12:01Z,UCDwLCn3w_8-q9xwhNC6H5dw,"🚨 AGORA: NOVA DECISÃO EM BRASÍLIA PEGA TODOS DE SURPRESA, VEJA O QUE MORAES ACABOU DE DIVULGAR","🚨 AGORA: NOVA DECISÃO EM BRASÍLIA PEGA TODOS DE SURPRESA, VEJA O QUE MORAES ACABOU DE DIVULGAR","{'url': 'https://i.ytimg.com/vi/aIGrnxcQ9EQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/aIGrnxcQ9EQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/aIGrnxcQ9EQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/aIGrnxcQ9EQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/aIGrnxcQ9EQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,77,youtube#video,aIGrnxcQ9EQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,RglwpclXLAXuqrHOvuodmutwn-g,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lm81OThMUlI1X1lB,2023-02-24T19:28:04Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO FAZ DISCURSO EMOCONANTE E CITA MICHELLE AO RELEMBRAR OS MOMENTOS DIFÍCEIS,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/o598LRR5_YA/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/o598LRR5_YA/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/o598LRR5_YA/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/o598LRR5_YA/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/o598LRR5_YA/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,78,youtube#video,o598LRR5_YA,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,4kQWFFh7UeQBzfjnZZ5Wx8Vko6o,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LldoYXpKV1Z1V0xJ,2023-02-24T18:31:46Z,UCDwLCn3w_8-q9xwhNC6H5dw,ELE ESTÁ VOLTANDO AO BRASIL! INACREDITÁVEL O DISCURSO FEITO EM ORLANDO SOBRE O RETORNO AO BRASIL,ELE ESTÁ VOLTANDO AO BRASIL! INACREDITÁVEL O DISCURSO FEITO EM ORLANDO SOBRE O RETORNO AO BRASIL,"{'url': 'https://i.ytimg.com/vi/WhazJWVuWLI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/WhazJWVuWLI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/WhazJWVuWLI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/WhazJWVuWLI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/WhazJWVuWLI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,79,youtube#video,WhazJWVuWLI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,vF1hZgJk4Cn2ty5VaYM3zxrTpdk,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkdhVTh1SjNWY3c4,2023-02-23T19:59:08Z,UCDwLCn3w_8-q9xwhNC6H5dw,CARLA ZAMBELLI FOI QUERER ATACAR O BOLSONARO MAS NÃO SAIU COMO O ESPERADO,CARLA ZAMBELLI FOI QUERER ATACAR O BOLSONARO MAS NÃO SAIU COMO O ESPERADO,"{'url': 'https://i.ytimg.com/vi/GaU8uJ3Vcw8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/GaU8uJ3Vcw8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/GaU8uJ3Vcw8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/GaU8uJ3Vcw8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/GaU8uJ3Vcw8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,80,youtube#video,GaU8uJ3Vcw8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,w5yMvRH-3lIscsju8S0egsizFhQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LndMUTRMME9qNmFr,2023-02-22T20:04:05Z,UCDwLCn3w_8-q9xwhNC6H5dw,Valdemiro Santiago Perde a PACIÊNCIA com o PRESIDENTE Ao Vivo e Toma Atitude Inesperada,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/wLQ4L0Oj6ak/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/wLQ4L0Oj6ak/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/wLQ4L0Oj6ak/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/wLQ4L0Oj6ak/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/wLQ4L0Oj6ak/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,81,youtube#video,wLQ4L0Oj6ak,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,MBMMh4CB1HsHbzc8Ysb9F1plZUw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ljh3MlcwUWNLc200,2023-02-21T14:49:02Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU A FARSA! GLOBO EXPÕEM TODA A VERDADE SOBRE LUL4,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/8w2W0QcKsm4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/8w2W0QcKsm4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/8w2W0QcKsm4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/8w2W0QcKsm4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/8w2W0QcKsm4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,82,youtube#video,8w2W0QcKsm4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,4MCkK4rWW42bpGbg3gBb4WxKN3U,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjJHUUI3NVdzSWhF,2023-02-17T20:05:03Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA! MICHELLE BOLSONARO ASSUME O COMANDO E NOTÍCIA PEGA TODOS DE SURPRESA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO - AQUI TEMOS PRÁ VOCÊ: notícias, noticias do brasil hoje, ultimas noticias de hoje, as noticias de hoje, governo,bolsonaro, noticias de bolsonaro, bolsonaro hoje, governo lula, lula, senadores, ao vivo, cnn brasil notícias, notícias de hoje, notícias ao vivo, jair bolsonaro, últimas notícias cnn brasil, alexandre de moraes, rodrigo pacheco, brasilia, oeste sem filtro, rogério marinho, michel temer, golpe, dilma, jovem pan, alexandre garcia, secom, DR. Marcelo Suave, ""Dr. Marcelo Suave"",  ""Folha Política"" E MUITO MAIS.
+TV Brasil Notícias Marcos do Val, ""Jornal da Record"", Jornal da Record,","{'url': 'https://i.ytimg.com/vi/2GQB75WsIhE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/2GQB75WsIhE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/2GQB75WsIhE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/2GQB75WsIhE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/2GQB75WsIhE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,83,youtube#video,2GQB75WsIhE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,YvcexDEb71jllc-iCYHoUE6NCrs,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmtJcHRfdnMyV2o4,2023-02-15T19:28:48Z,UCDwLCn3w_8-q9xwhNC6H5dw,POR ESSA NINGUÉM ESPERAVA! Pastor Silas Malafaia Desafia Grande Autoridade após situação em Brasília,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/kIpt_vs2Wj8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/kIpt_vs2Wj8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/kIpt_vs2Wj8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/kIpt_vs2Wj8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/kIpt_vs2Wj8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,84,youtube#video,kIpt_vs2Wj8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,6p8Z7EnVBYoM80GUwQZWcZtvNwE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZNRjNxOG16Z0FV,2023-02-14T21:00:03Z,UCDwLCn3w_8-q9xwhNC6H5dw,ISSO É SÉRIO! CORTE ACEITA DENÚNCIA E O É CLIMA DE TENSÃO EM BRASÍLIA! AGUARDANDO A DECISÃO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/FMF3q8mzgAU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/FMF3q8mzgAU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/FMF3q8mzgAU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/FMF3q8mzgAU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/FMF3q8mzgAU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,85,youtube#video,FMF3q8mzgAU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,sLBnzNPbhuBxtEP4v4cJSW_dTEk,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjkzMWdyMjMxcW93,2023-02-13T20:12:50Z,UCDwLCn3w_8-q9xwhNC6H5dw,REVlRAV0LTA em BRASILIA! MENDONÇA ACAB0U de REAGlR em NOVA DECISÃO Sobre povo Nordestino..,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/931gr231qow/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/931gr231qow/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/931gr231qow/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/931gr231qow/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/931gr231qow/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,86,youtube#video,931gr231qow,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,zLo8fzB-4835nSXucPt_oxDq614,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lkk0Wklwd3NjQk93,2023-02-12T19:56:38Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: BOLSONARO FAZ PRONUNCIAMENTO AOS BRASILEIROS E DIZ ""AINDA NÃO ACABOU""","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/I4ZIpwscBOw/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/I4ZIpwscBOw/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/I4ZIpwscBOw/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/I4ZIpwscBOw/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/I4ZIpwscBOw/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,87,youtube#video,I4ZIpwscBOw,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,xfbEAWZqLd0VZ4fY52Wo7ZipKGA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnpGVFpNSGJqN3E4,2023-02-11T19:29:44Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: DEVOLTA AO BRASIL, BOLSONARO TEM DATA DEFINIDA, NOS EUA JANJA TEM ENCONTO DESMARCADO","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/zFTZMHbj7q8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/zFTZMHbj7q8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/zFTZMHbj7q8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/zFTZMHbj7q8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/zFTZMHbj7q8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,88,youtube#video,zFTZMHbj7q8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,_aYi6WkD1FxE_vzraQTB_aCjhCA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjdUNmtCY3NVNU1n,2023-02-10T20:00:07Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU! Michelle Bolsonaro vem a Público e acaba com a Farsa da Imprensa no Brasil,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/7T6kBcsU5Mg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/7T6kBcsU5Mg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/7T6kBcsU5Mg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/7T6kBcsU5Mg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/7T6kBcsU5Mg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,89,youtube#video,7T6kBcsU5Mg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,svNJg05CKUBuqinY-dXdL9GEhAE,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmFadUJMeXRzeG9r,2023-02-09T19:59:20Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: BOLSONARO ACABOU DE DIVULGAR, NOVO PROUNCIAMENTO DEVERÁ SER TRANSMITIDO AO BRASIL","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/aZuBLytsxok/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/aZuBLytsxok/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/aZuBLytsxok/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/aZuBLytsxok/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/aZuBLytsxok/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,90,youtube#video,aZuBLytsxok,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,DcBbcDehAl9yEnj8pO_6Fg3rELM,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlNkYjdMcFZYcHpz,2023-02-08T19:59:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: Michelle Bolsonaro Expõe Planos com BOLSONARO após RETORNO AO BRASIL! ISSO É MUITO IMPORTANTE,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Sdb7LpVXpzs/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Sdb7LpVXpzs/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Sdb7LpVXpzs/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Sdb7LpVXpzs/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Sdb7LpVXpzs/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,91,youtube#video,Sdb7LpVXpzs,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,lIxQImkJZDCcOK-jLowTahEX-VQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmFvQXB2VjlLYTlV,2023-02-07T19:39:09Z,UCDwLCn3w_8-q9xwhNC6H5dw,"DECISÃO PEGA TODOS DE SURPRESA! VEJA O QUE O BARBA DECIDIU FAZER AGORA, ISSO É MUITO SUSPEITO","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/aoApvV9Ka9U/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/aoApvV9Ka9U/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/aoApvV9Ka9U/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/aoApvV9Ka9U/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/aoApvV9Ka9U/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,92,youtube#video,aoApvV9Ka9U,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,ZnQ0P6JugfFZaUmASa1ePchn4iY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmY0dmYxeUl2cS1N,2023-02-06T19:26:58Z,UCDwLCn3w_8-q9xwhNC6H5dw,ACABOU A FARSA! Michelle Bolsonaro decide falar a verdade sobre o seu futuro após a mídia divulgar..,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/f4vf1yIvq-M/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/f4vf1yIvq-M/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/f4vf1yIvq-M/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/f4vf1yIvq-M/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/f4vf1yIvq-M/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,93,youtube#video,f4vf1yIvq-M,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,0H0bKndwP_rQwMbrEzHcLrNTiqQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjlTNDgtdmtBUWIw,2023-02-06T14:53:24Z,UCDwLCn3w_8-q9xwhNC6H5dw,VEJA ISSO: ELE ACABOU DE SE PRONUNCIAR AO BRASIL E O SEU RETORNO É AGUARDADO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/9S48-vkAQb0/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/9S48-vkAQb0/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/9S48-vkAQb0/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/9S48-vkAQb0/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/9S48-vkAQb0/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,94,youtube#video,9S48-vkAQb0,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,Bh3Kj_p0Q7IohoVDN715NAfodJ8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZueGp4TExKVElj,2023-02-04T14:01:23Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: BOLSONARO FAZ DECLARAÇÃO AOS BRASILEIROS ""NÃO VOU DESISTIR DO BRASIL""","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/FnxjxLLJTIc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/FnxjxLLJTIc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/FnxjxLLJTIc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/FnxjxLLJTIc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/FnxjxLLJTIc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,95,youtube#video,FnxjxLLJTIc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,45fSHZ1KwKg3OXwrMJ1Pd3ixsoc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjczRjJ5ZkhFMnY4,2023-02-03T20:04:16Z,UCDwLCn3w_8-q9xwhNC6H5dw,OLHA O QUE ACONTECEU AGORA EM BRASÍLIA! MINISTRO ANDRÉ MENDONÇA TOMA IMPORTANTE DECISÃO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/73F2yfHE2v8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/73F2yfHE2v8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/73F2yfHE2v8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/73F2yfHE2v8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/73F2yfHE2v8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,96,youtube#video,73F2yfHE2v8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,u2Ru-Df9dAU0AY27g_kwrbkNpMo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjZ5QU5uaXhQT0NV,2023-02-02T22:52:24Z,UCDwLCn3w_8-q9xwhNC6H5dw,SENADORA DAMARES ALVES FAZ DESABAFO SOBRE BOLSONARO E EMOCIONA A TODOS,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/6yANnixPOCU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/6yANnixPOCU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/6yANnixPOCU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/6yANnixPOCU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/6yANnixPOCU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,97,youtube#video,6yANnixPOCU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,492Vlgtw8GQuy4m-EEGp9dwhfb0,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmluYkxzaXF3Y21J,2023-02-01T14:46:41Z,UCDwLCn3w_8-q9xwhNC6H5dw,"PREPARE-SE BRASIL! Veja O que BOLSONARO pretende fazer, Aconteceu em Orlando Oração e momento de Fé","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/inbLsiqwcmI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/inbLsiqwcmI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/inbLsiqwcmI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/inbLsiqwcmI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/inbLsiqwcmI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,98,youtube#video,inbLsiqwcmI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,ckoZYepYP6AJjvU_j5xZIRy2-6Y,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlJHOThhdkJzS1Fj,2023-01-31T19:59:48Z,UCDwLCn3w_8-q9xwhNC6H5dw,"BOLSONARO ACABOU DE FAZER PRONUNCIAMENTO, FALOU ALGO INESPERADO E EMOCIONOU A TODOS","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/RG98avBsKQc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/RG98avBsKQc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/RG98avBsKQc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/RG98avBsKQc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/RG98avBsKQc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,99,youtube#video,RG98avBsKQc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaBlBUOkNHUQ,2023-06-06 00:53:03.800178
+youtube#playlistItem,5oRFIVrSrnf0D7iQ0m2gE5Oukd4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlFmZHdKVTF0eEpz,2023-01-31T15:21:31Z,UCDwLCn3w_8-q9xwhNC6H5dw,"OLHA A NOTÍCIA QUE CHEGOU AGORA! DEVOLTA AO BRASIL, MICHELLE BOLSONARO PARTICIPA DE EVENTO DA SIGLA","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/QfdwJU1txJs/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/QfdwJU1txJs/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/QfdwJU1txJs/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/QfdwJU1txJs/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/QfdwJU1txJs/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,100,youtube#video,QfdwJU1txJs,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,BV7sduXXetvykS4Z5CA-EQ3QPjI,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ll92Sm8yZF9EWkpF,2023-01-30T21:36:52Z,UCDwLCn3w_8-q9xwhNC6H5dw,"PENSARAM QUE JÁ TINHA ACABADO, MAS VEJA A VIRADA! VITÓRIA DO BRASIL","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/_vJo2d_DZJE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/_vJo2d_DZJE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/_vJo2d_DZJE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/_vJo2d_DZJE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/_vJo2d_DZJE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,101,youtube#video,_vJo2d_DZJE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,UYDgnQWTNKPTRTAHtZ2xhAY8jkY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlF5QjJER1pleWpn,2023-01-27T01:44:50Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: OLHA QUEM ESTÁ DEVOLTA AO BRASIL, APÓS PASSAR UM MÊS NOS EUA, BOLSONARO DEVE RETORNAR LOGO...","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/QyB2DGZeyjg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/QyB2DGZeyjg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/QyB2DGZeyjg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/QyB2DGZeyjg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/QyB2DGZeyjg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,102,youtube#video,QyB2DGZeyjg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,melku-SVpOAIeNwYC8TEayHCcPU,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnJsd0NnRjk2Smlr,2023-01-26T20:30:48Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: ESTAMOS A UM PASSO DA VITÓRIA, A MAIS IMPORTANTE DECISÃO PELO BRASIL VAI SER TOMADA","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/rlwCgF96Jik/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/rlwCgF96Jik/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/rlwCgF96Jik/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/rlwCgF96Jik/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/rlwCgF96Jik/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,103,youtube#video,rlwCgF96Jik,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,eHuIyUmxnCiz-UMqeixSvLNdKmI,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnRJVG5ycHhoWGdn,2023-01-25T20:25:21Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: PEGOU TODOS DE SURPRESA! BOLSONARO DEVOLTA AO BRASIL PARA NOVO PROCEDIMENTO, REVELA DOUTOR","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/tITnrpxhXgg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/tITnrpxhXgg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/tITnrpxhXgg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/tITnrpxhXgg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/tITnrpxhXgg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,104,youtube#video,tITnrpxhXgg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,BSQzrseQZRKo71AjJMhmdhLSg9E,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkVJUnFFUkZVdXlV,2023-01-25T14:42:15Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: BOLSONARO SE PRONUNCIA SOBRE ""POLEMICA LIBERAÇÃO DE VERBAS PARA ARTISTAS"" COMEÇOU A FESTA","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/EIRqERFUuyU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/EIRqERFUuyU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/EIRqERFUuyU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/EIRqERFUuyU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/EIRqERFUuyU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,105,youtube#video,EIRqERFUuyU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,FVhTbpspm1v8bliknJgQiKdD0Dw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lmo5OEE1Q3VDemV3,2023-01-24T22:56:07Z,UCDwLCn3w_8-q9xwhNC6H5dw,"NÃO ACABOU! APÓS DECISÃO DE BOLSONARO, VEJA O QUE A SIGLA ARTICULOU","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/j98A5CuCzew/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/j98A5CuCzew/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/j98A5CuCzew/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/j98A5CuCzew/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/j98A5CuCzew/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,106,youtube#video,j98A5CuCzew,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,c0Wg92HpFd82AwHT3eUub5tqAkw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkdhN0duSzgtVXU4,2023-01-23T22:26:06Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO SE PRONUNCIA E EXPOEM O QUE PENSA SOBRE O BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Ga7GnK8-Uu8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Ga7GnK8-Uu8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Ga7GnK8-Uu8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Ga7GnK8-Uu8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Ga7GnK8-Uu8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,107,youtube#video,Ga7GnK8-Uu8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,oZGIjB-gNcZ3mv3qNOoXOifBjl0,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkpRZklKLUdaY3Zj,2023-01-23T14:39:18Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO ACABA DE DIVULGAR RELATÓRIO DO SEU MANDATO! ISSO É MUITO IMPORTANTE,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/JQfIJ-GZcvc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/JQfIJ-GZcvc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/JQfIJ-GZcvc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/JQfIJ-GZcvc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/JQfIJ-GZcvc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,108,youtube#video,JQfIJ-GZcvc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,Pcz-rXa6OGNqMTAwWdPeFHOMeV4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lkp4NmVUdHl0MHJv,2023-01-22T19:14:52Z,UCDwLCn3w_8-q9xwhNC6H5dw,ELES NÃO ESPERAVAM PROVAS! BOLSONARO VEM A PÚBLICO E DESMENTE NARRATIVA DA IMRENSA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Jx6eTtyt0ro/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Jx6eTtyt0ro/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Jx6eTtyt0ro/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Jx6eTtyt0ro/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Jx6eTtyt0ro/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,109,youtube#video,Jx6eTtyt0ro,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,VMVPYUmnGAkPKmHDUMwGi53CUrQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LllHQVR3V3Ixb3RJ,2023-01-21T19:25:23Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: JAIR BOLSONARO E MICHELLE NO BRASIL, VÃO CONSTRIR BASES POR TODO O BRASIL","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/YGATwWr1otI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/YGATwWr1otI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/YGATwWr1otI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/YGATwWr1otI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/YGATwWr1otI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,110,youtube#video,YGATwWr1otI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,5pNLzuNqH7a9AsjGKv2-_gI1K6M,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnhJd2FfR1JORk1F,2023-01-21T14:30:18Z,UCDwLCn3w_8-q9xwhNC6H5dw,BOLSONARO VEM A PÚBLICO E DESMENTE DECLARAÇÃO DE MARINA SILVA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/xIwa_GRNFME/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/xIwa_GRNFME/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/xIwa_GRNFME/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/xIwa_GRNFME/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/xIwa_GRNFME/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,111,youtube#video,xIwa_GRNFME,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,4aRP6hHcvg4aMW-mZwHX_wNFpLc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmZnZTdKWkdPMlFJ,2023-01-20T19:34:03Z,UCDwLCn3w_8-q9xwhNC6H5dw,PENSARAM QUE TINHA ACABADO! PRESIDENTE DA SIGLA ACABA DE FAZER REVELAÇÃO IMPORTANTE SOBRE BOLSONARO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/fge7JZGO2QI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/fge7JZGO2QI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/fge7JZGO2QI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/fge7JZGO2QI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/fge7JZGO2QI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,112,youtube#video,fge7JZGO2QI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,ttNA4X6GYVQTUdFDAjFSiCoGIB8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lkh6VDYxUFd2Z1c0,2023-01-20T13:40:30Z,UCDwLCn3w_8-q9xwhNC6H5dw,"URGENTE: BOLSONARO SE PRONUNCIA APÓS PEDIDO DE MINISTRO, SOBRE DOCUMENTO ENCONTRADO PELA PF...","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/HzT61PWvgW4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/HzT61PWvgW4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/HzT61PWvgW4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/HzT61PWvgW4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/HzT61PWvgW4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,113,youtube#video,HzT61PWvgW4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,oZ_pPjtd6MCI7NeMDuUbmbFGHOw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LktPSHlXUF9vV0FJ,2023-01-19T22:11:57Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA EM BRASÍLIA! NOVA DECISÃO, BOLSONARO PODERÁ FICAR NOS EUA POR MAIS TEMPO","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/KOHyWP_oWAI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/KOHyWP_oWAI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/KOHyWP_oWAI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/KOHyWP_oWAI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/KOHyWP_oWAI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,114,youtube#video,KOHyWP_oWAI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,V44y43B639kFRBZzJMZb1Qxr03k,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlI3TzRZZElvMDdF,2023-01-18T22:12:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO ACERTA DECISÃO E MICHELLE DECLARA APOIO SOBRE ROGÉRIO MARINHO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/R7O4YdIo07E/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/R7O4YdIo07E/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/R7O4YdIo07E/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/R7O4YdIo07E/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/R7O4YdIo07E/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,115,youtube#video,R7O4YdIo07E,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,tOYdmB6jevSpjSS_aoMjGVzRzE4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmRRMk1wX083Xzdn,2023-01-17T21:09:26Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: Bolsonaro Acaba de Falar mais detalhes sobre O que está acontecendo no Brasil,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/dQ2Mp_O7_7g/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/dQ2Mp_O7_7g/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/dQ2Mp_O7_7g/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/dQ2Mp_O7_7g/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/dQ2Mp_O7_7g/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,116,youtube#video,dQ2Mp_O7_7g,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,ADPsSBc1aW7cT4J6D4gMR9a8SjA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lmpfel8zZTBhUnBN,2023-01-17T00:17:21Z,UCDwLCn3w_8-q9xwhNC6H5dw,"BOLSONARO ACABOU DE TOMAR DECISÃO IMPORTANTE PARA O FUTURO DO BRASIL, ASSISTA ATÉ O FINAL","Site do Gustavo Gayer: https://comovotasenador.com.br/
+
+Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432","{'url': 'https://i.ytimg.com/vi/j_z_3e0aRpM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/j_z_3e0aRpM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/j_z_3e0aRpM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/j_z_3e0aRpM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/j_z_3e0aRpM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,117,youtube#video,j_z_3e0aRpM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,RvwXNE768uJisfNyh7q8R2EqRKU,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjBfekhWVExkMkJr,2023-01-16T12:58:12Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO FALA COM APOIADORES E TRAZ NOVAS INFORMAÇÕES...,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/0_zHVTLd2Bk/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/0_zHVTLd2Bk/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/0_zHVTLd2Bk/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/0_zHVTLd2Bk/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/0_zHVTLd2Bk/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,118,youtube#video,0_zHVTLd2Bk,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,cO6pi0FpHqX6Jhc6j4R0KYUrzLI,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmpIWndOOHJVT3dR,2023-01-14T20:17:52Z,UCDwLCn3w_8-q9xwhNC6H5dw,"ACABOU DE SE PRONUNCIAR! APÓS BOLSONARO TER NOME CITADO, ADVOGADO VEM A PÚBLICO E FAZ ESCLARECIMENTO","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/jHZwN8rUOwQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/jHZwN8rUOwQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/jHZwN8rUOwQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/jHZwN8rUOwQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/jHZwN8rUOwQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,119,youtube#video,jHZwN8rUOwQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,M89K7zHkYu6VhBGcHOt7MOOQMQs,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ljd3dVlQQzFTRjJB,2023-01-13T22:31:59Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO EM ORLANDO É SURPREENDIDO COM PEDIDO FEITO PRO PROCURADOR EM BRASÍLIA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/7wuYPC1SF2A/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/7wuYPC1SF2A/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/7wuYPC1SF2A/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/7wuYPC1SF2A/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/7wuYPC1SF2A/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,120,youtube#video,7wuYPC1SF2A,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,Y6k6nweu3dbkOhUus1jOJ7ou6G8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnBwSVY0QzVJMm9n,2023-01-13T19:14:58Z,UCDwLCn3w_8-q9xwhNC6H5dw,TIRARAM O SIGILO DE BOLSONARO MAS NÃO SAIU COMO ESPERADO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/ppIV4C5I2og/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/ppIV4C5I2og/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/ppIV4C5I2og/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/ppIV4C5I2og/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/ppIV4C5I2og/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,121,youtube#video,ppIV4C5I2og,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,8U8314kiHQJFBQiVUKyPk0Tt8yo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmxHYzh5aE1nZ3Jj,2023-01-12T20:59:55Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: VEJA O ANÚNCIO SOBRE O QUE BOLSONARO VAI FAZER APÓS O RETORNO AO BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/lGc8yhMggrc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/lGc8yhMggrc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/lGc8yhMggrc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/lGc8yhMggrc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/lGc8yhMggrc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,122,youtube#video,lGc8yhMggrc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,oaDy83MXtzf90-4IBM1RdraVT9E,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Ll9rNlJVcGNFM19B,2023-01-12T16:40:23Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA: MENDONÇA SAI EM DEFESA DA LIBERDADE, INDOCADO POR BOLSONARO MOSTRA AO QUE VEIO","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/_k6RUpcE3_A/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/_k6RUpcE3_A/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/_k6RUpcE3_A/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/_k6RUpcE3_A/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/_k6RUpcE3_A/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,123,youtube#video,_k6RUpcE3_A,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,OCkrdLsfWghI2LU1Y12RVoObtxg,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZQTmI3T2tLbHU0,2023-01-11T21:41:30Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO TOMA DECISÃO APÓS FICAR INTERNADO EM ORLANDO | ESTÃO TENTANDO BLOQUEAR SUAS REDES,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/FPNb7OkKlu4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/FPNb7OkKlu4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/FPNb7OkKlu4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/FPNb7OkKlu4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/FPNb7OkKlu4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,124,youtube#video,FPNb7OkKlu4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,Poslfpu3XoTn8LFM1JEbUkBRwfo,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lk1fM2hLbXJfSFVn,2023-01-10T20:33:28Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: MORAES DETERMINA A PRISÃO EM BRASÍLIA | BOLSONARO É ALVO DE PEDIDO DO MP,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/M_3hKmr_HUg/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/M_3hKmr_HUg/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/M_3hKmr_HUg/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/M_3hKmr_HUg/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/M_3hKmr_HUg/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,125,youtube#video,M_3hKmr_HUg,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,ecxkmzSnOCS81p1dqZ-K_T3gOHs,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkxTT1IwZXplRFk0,2023-01-10T13:49:41Z,UCDwLCn3w_8-q9xwhNC6H5dw,BOLSONARO DEVOLTA AO BRASIL? | VEJA O QUE ELE ACABOU DE FALAR AOS BRASILEIROS,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/LSOR0ezeDY4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/LSOR0ezeDY4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/LSOR0ezeDY4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/LSOR0ezeDY4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/LSOR0ezeDY4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,126,youtube#video,LSOR0ezeDY4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,Kx-HUlC0haSMCRtCY_wBYRBoHQ4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlFIRmZ3Y2dYT1Nj,2023-01-10T00:29:57Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO SE PRONUNCIA E ATUALIZA BRASILEIRO SOBRE SUA SAÚDE,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/QHFfwcgXOSc/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/QHFfwcgXOSc/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/QHFfwcgXOSc/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/QHFfwcgXOSc/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/QHFfwcgXOSc/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,127,youtube#video,QHFfwcgXOSc,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,8GoYTkENqv5Xw671BCk4IajO1q8,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnBrT3hrVF85OXFN,2023-01-09T21:22:50Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: MICHELLE BOLSONARO FAZ PRONUNCIAMENTO AO BRASIL E ATUALIZA APOIADORES DO PRESIDENTE,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/pkOxkT_99qM/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/pkOxkT_99qM/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/pkOxkT_99qM/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/pkOxkT_99qM/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/pkOxkT_99qM/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,128,youtube#video,pkOxkT_99qM,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,Z9LqsKMHZazBe5MyVWsoZMwcV14,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmYybGFWZkI5RVZZ,2023-01-09T17:26:15Z,UCDwLCn3w_8-q9xwhNC6H5dw,Acaba de ser confirmado: BOLSONARO é Internado as Pressas em Orlando,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/f2laVfB9EVY/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/f2laVfB9EVY/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/f2laVfB9EVY/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/f2laVfB9EVY/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/f2laVfB9EVY/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,129,youtube#video,f2laVfB9EVY,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,qbeOeq7J9xDia20ePYdOYYghkfY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lk1xd1N4OTFfYjYw,2023-01-09T00:54:54Z,UCDwLCn3w_8-q9xwhNC6H5dw,AGORA: BOLSONARO SE PRONUNCIA SOBRE OS ATOS EM BRASÍLIA,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/MqwSx91_b60/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/MqwSx91_b60/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/MqwSx91_b60/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/MqwSx91_b60/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/MqwSx91_b60/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,130,youtube#video,MqwSx91_b60,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,b4alHbmA5S4w1_F2vp6WrJ1fRAk,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmktYXVZNzN0Mk5z,2023-01-02T23:08:36Z,UCDwLCn3w_8-q9xwhNC6H5dw,AO VIVO - DIRETO DOS ESTADOS UNIDOS BOLSONARO MANDA RECADO AO BRASIL,AO VIVO - DIRETO DOS ESTADOS UNIDOS BOLSONARO MANDA RECADO AO BRASIL,"{'url': 'https://i.ytimg.com/vi/i-auY73t2Ns/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/i-auY73t2Ns/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/i-auY73t2Ns/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/i-auY73t2Ns/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/i-auY73t2Ns/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,131,youtube#video,i-auY73t2Ns,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,iL3eWPKBYzHr4S8ckeuLonShdPw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkxoM210ZWtKSzY0,2022-12-30T20:02:31Z,UCDwLCn3w_8-q9xwhNC6H5dw,PREPARE-SE BRASIL! Veja O que PRESIDENTE falou. Isso é muito Sério,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Lh3mtekJK64/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Lh3mtekJK64/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Lh3mtekJK64/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Lh3mtekJK64/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Lh3mtekJK64/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,132,youtube#video,Lh3mtekJK64,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,KNozR8g3TjFHInuGi0kFev9gMJ0,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lkl5UTdHZFotM0hB,2022-12-29T21:53:57Z,UCDwLCn3w_8-q9xwhNC6H5dw,Triste: PRESIDENTE Faz Comunicado Oficial após a perda de PELÉ,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/IyQ7GdZ-3HA/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/IyQ7GdZ-3HA/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/IyQ7GdZ-3HA/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/IyQ7GdZ-3HA/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/IyQ7GdZ-3HA/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,133,youtube#video,IyQ7GdZ-3HA,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,uOnZTpd8ofrrfGFdIAjIj3iVQPQ,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnVVRk0ydjB1NzU0,2022-12-28T13:55:36Z,UCDwLCn3w_8-q9xwhNC6H5dw,BRASIL EM TENSÃO! AGORA FICOU MUITO SÉRIO COM ESSA DECISÃO,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/uUFM2v0u754/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/uUFM2v0u754/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/uUFM2v0u754/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/uUFM2v0u754/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/uUFM2v0u754/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,134,youtube#video,uUFM2v0u754,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,03w-VbS56SOAtMyKpvzvQ0zVcis,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnFfYll1Z1RHSHM0,2022-12-18T22:49:58Z,UCDwLCn3w_8-q9xwhNC6H5dw,GENERAL HELENO Vem a Público e Faz Esclarecimento Após se encontrar com o Presidente,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/q_bYugTGHs4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/q_bYugTGHs4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/q_bYugTGHs4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/q_bYugTGHs4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/q_bYugTGHs4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,135,youtube#video,q_bYugTGHs4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,UvrFWosxyoaH3kJKWIziKpAviPc,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlN0cDFaWk1VckJB,2022-12-12T14:58:41Z,UCDwLCn3w_8-q9xwhNC6H5dw,PASTOR Se encontra Com BOLSONARO e revela Algo Inacreditável,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Stp1ZZMUrBA/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Stp1ZZMUrBA/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Stp1ZZMUrBA/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Stp1ZZMUrBA/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Stp1ZZMUrBA/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,136,youtube#video,Stp1ZZMUrBA,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,IHdR7JK6R8bo7aN1MlJyB2d9N90,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnFTMDZzdjZFaFBZ,2022-11-28T20:07:02Z,UCDwLCn3w_8-q9xwhNC6H5dw,BISPO Deixa Forte declaração ao BRASIL | PRESIDENTE Fica em silêncio!!,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/qS06sv6EhPY/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/qS06sv6EhPY/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/qS06sv6EhPY/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/qS06sv6EhPY/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/qS06sv6EhPY/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,137,youtube#video,qS06sv6EhPY,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,KdgpsaRCD5mOumZQm9x7vpkEr4Y,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LldlMDJtZHp4Zy1r,2022-11-26T19:52:07Z,UCDwLCn3w_8-q9xwhNC6H5dw,"AGORA! PRESIDENTE FALA COM APOIADORES ""RECADO IMPORTANTE"" Á NAÇÃO","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/We02mdzxg-k/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/We02mdzxg-k/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/We02mdzxg-k/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/We02mdzxg-k/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/We02mdzxg-k/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,138,youtube#video,We02mdzxg-k,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,ocbRrkh71JuyqbaGJNVrivlD9us,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LjlOMURuUVdfZWFz,2022-11-25T14:30:16Z,UCDwLCn3w_8-q9xwhNC6H5dw,"ATENÇÃO! ISSO É MUITO SÉRIO, VEJA O QUE ENTROU EM DISCUSSÃO AGORA!","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/9N1DnQW_eas/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/9N1DnQW_eas/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/9N1DnQW_eas/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/9N1DnQW_eas/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/9N1DnQW_eas/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,139,youtube#video,9N1DnQW_eas,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,MC_05SkDyYmYpMP_d1agyHQcBdA,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LnA4V1dzdjY4ODE4,2022-10-11T19:59:39Z,UCDwLCn3w_8-q9xwhNC6H5dw,Ninguém Esperava! MISSIONÁRIO RR Soares vem a público e faz Comunicado ao BRASIL,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/p8WWsv68818/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/p8WWsv68818/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/p8WWsv68818/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/p8WWsv68818/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/p8WWsv68818/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,140,youtube#video,p8WWsv68818,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,-qv0OecKF5kFOHq7c2t3esHK13c,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlZqN0xlbjVzcE04,2022-10-08T20:00:04Z,UCDwLCn3w_8-q9xwhNC6H5dw,"Menino Faz Revelação Forte para o BRASIL do que poderá Acontecer, É Muito Sério!!!","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Vj7Len5spM8/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Vj7Len5spM8/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Vj7Len5spM8/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Vj7Len5spM8/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Vj7Len5spM8/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,141,youtube#video,Vj7Len5spM8,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,tvrg8dKXurZ_BIELJxPgpOox4uY,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LlYyNENFcGJNcWdV,2022-10-03T20:54:02Z,UCDwLCn3w_8-q9xwhNC6H5dw,Muito Forte! Veja o que DEUS falou ao BRASIL sobre o que vai acontecer em 2022,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/V24CEpbMqgU/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/V24CEpbMqgU/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/V24CEpbMqgU/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/V24CEpbMqgU/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/V24CEpbMqgU/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,142,youtube#video,V24CEpbMqgU,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,S2Lj0SZ0HdvQ34opsk1fWV08yaw,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Lkg4VWpBVmlOVktv,2022-09-19T20:14:16Z,UCDwLCn3w_8-q9xwhNC6H5dw,INACREDITÁVEL O que o Pastor Cláudio Duarte Falou em Púbico durante Culto na Igreja,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/H8UjAViNVKo/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/H8UjAViNVKo/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/H8UjAViNVKo/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/H8UjAViNVKo/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/H8UjAViNVKo/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,143,youtube#video,H8UjAViNVKo,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,lLVXk8XPDZ6p-sQYnUywzIbTyF4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3Li1qSnlXdkdSdnRF,2022-09-17T19:59:50Z,UCDwLCn3w_8-q9xwhNC6H5dw,"BISPO Edir Macedo vem a público, Revela Importante Decisão e Alerta CRISTÃOS","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/-jJyWvGRvtE/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/-jJyWvGRvtE/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/-jJyWvGRvtE/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/-jJyWvGRvtE/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/-jJyWvGRvtE/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,144,youtube#video,-jJyWvGRvtE,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,ODpwTdyTxOTs59b9hG00jiNQfY0,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmFPUmRnLXh4eE9z,2022-09-16T20:00:50Z,UCDwLCn3w_8-q9xwhNC6H5dw,PASTOR Silas Malafaia Falou o que NINGUÉM Esperava sobre a BÍBLIA em Culto na Igreja,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/aORdg-xxxOs/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/aORdg-xxxOs/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/aORdg-xxxOs/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/aORdg-xxxOs/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/aORdg-xxxOs/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,145,youtube#video,aORdg-xxxOs,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,2PQ175Y792UbsGT26W8jcI744pg,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LmJDcDN2VW1CaVFR,2022-08-22T20:30:37Z,UCDwLCn3w_8-q9xwhNC6H5dw,REDE GLOBO Põe Bolsonaro Contra a Parede e recebe Resposta Inesperada Ao Vivo,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/bCp3vUmBiQQ/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/bCp3vUmBiQQ/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/bCp3vUmBiQQ/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/bCp3vUmBiQQ/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/bCp3vUmBiQQ/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,146,youtube#video,bCp3vUmBiQQ,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,1dY1DeFh8mfO7zJ-7igwXJWtgOs,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkRFOXZjOXlIczJB,2022-08-17T20:12:00Z,UCDwLCn3w_8-q9xwhNC6H5dw,Silas Malafaia Vem a Público e Faz Fortíssimo Apelo e manda Surpreendente ao Brasil,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/DE9vc9yHs2A/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/DE9vc9yHs2A/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/DE9vc9yHs2A/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/DE9vc9yHs2A/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/DE9vc9yHs2A/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,147,youtube#video,DE9vc9yHs2A,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,k-1GAoHrnE8A8a848sQ7_A2xSkM,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkZkN0swVm1ES1JJ,2022-08-06T19:55:49Z,UCDwLCn3w_8-q9xwhNC6H5dw,"Bispo EDIR MACEDO Toma atitude! Bolsonaro Não esperava, em Igreja Faz pronunciamento","Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO -","{'url': 'https://i.ytimg.com/vi/Fd7K0VmDKRI/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/Fd7K0VmDKRI/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/Fd7K0VmDKRI/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/Fd7K0VmDKRI/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/Fd7K0VmDKRI/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,148,youtube#video,Fd7K0VmDKRI,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
+youtube#playlistItem,DQcT3Pne9TEzXxOwIU0dijYV_x4,VVVEd0xDbjN3XzgtcTl4d2hOQzZINWR3LkxSTGp2Mzlwc0Y0,2022-07-27T20:08:41Z,UCDwLCn3w_8-q9xwhNC6H5dw,A CASA CAIU! Bispo Edir Macedo fala O que não devia e o pior aconteceu,"Seja membro deste canal e ganhe benefícios:
+https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw/join
+
+▶️INSCREVA-SE NO CANAL: https://www.youtube.com/channel/UCDwLCn3w_8-q9xwhNC6H5dw?sub_confirmation=1
+▶ Telegram: https://t.me/joinchat/H3f4hYr12siY-4ev
+▶ Instagram: https://www.instagram.com/patriotacristaobr/?hl=pt-br
+▶ Facebook: https://www.facebook.com/Patriota-Crist%C3%A3o-165036818505727
+▶ Grupo do Facebook: https://www.facebook.com/groups/1365287200536432
+▷ TEMA DO VÍDEO - Edir Macedo, líder da Igreja Universal do Reino de Deus e proprietário do Grupo Record e da Record TV, a terceira maior emissora de televisão do Brasil, sugeriu que seus fiéis doem todos seus bens, propriedades e riquezas para a Universal, antes mesmo de morrerem.
+ Segundo Edir, essa seria uma forma de agradar a Deus. Confira a fala do bispo.
+.
+O Partido Liberal lançou no último final de semana, oficialmente, a candidatura do presidente Jair Bolsonaro à reeleição.
+Na oportunidade, Bolsonaro fez um impactante discurso.","{'url': 'https://i.ytimg.com/vi/LRLjv39psF4/default.jpg', 'width': 120, 'height': 90}","{'url': 'https://i.ytimg.com/vi/LRLjv39psF4/mqdefault.jpg', 'width': 320, 'height': 180}","{'url': 'https://i.ytimg.com/vi/LRLjv39psF4/hqdefault.jpg', 'width': 480, 'height': 360}","{'url': 'https://i.ytimg.com/vi/LRLjv39psF4/sddefault.jpg', 'width': 640, 'height': 480}","{'url': 'https://i.ytimg.com/vi/LRLjv39psF4/maxresdefault.jpg', 'width': 1280, 'height': 720}",Brasil Agora,UUDwLCn3w_8-q9xwhNC6H5dw,149,youtube#video,LRLjv39psF4,Brasil Agora,UCDwLCn3w_8-q9xwhNC6H5dw,EAAaB1BUOkNKWUI,2023-06-06 00:53:05.204248
