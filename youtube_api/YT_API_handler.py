@@ -3,6 +3,7 @@ import requests
 import time
 from datetime import datetime
 import pandas as pd
+import json
 
 #Costly Function in QUotas
 def get_channel_videosIDs_timeframe(api_key, channel_id, start_date, end_date):
@@ -143,7 +144,7 @@ def get_video_info(api_key, video_id):
         print(f"HTTP Error occurred: {err}")
         raise
 
-def get_video_comments(api_key, video_id):
+def get_video_comments(api_key, video_id, path, file_name):
     """
     This function retrieves comments from a specified YouTube video and returns a list of them.
 
@@ -164,17 +165,32 @@ def get_video_comments(api_key, video_id):
     requests.HTTPError: If an HTTP error occurs while making the API request.
     """
     base_url = 'https://www.googleapis.com/youtube/v3/commentThreads?'
-    first_url = base_url + 'part=id,snippet,replies&maxResults=100&videoId={}&key={}'.format(
+    first_url = base_url + 'part=id, snippet,replies&maxResults=100&videoId={}&key={}'.format(
         video_id, api_key)
-    json_list = []
     url = first_url
+    column_names = ['kind', 'etag', 'id', 'snippet', 'replies']
+
+    df_base = pd.DataFrame(columns=column_names)
+    #IH.save_df(path, file_name, 'a', df_base)
     while True:
         response = requests.get(url)
         try:
             response.raise_for_status()  # Raise an HTTPError if the request fails
             data = response.json()
-            comments = data['items']
-            json_list.append(comments)
+            items = data['items']
+            if items == []: #Video with no comments
+                print("No Comments on Video.")
+                break
+            df = pd.concat([df_base, IH.json_to_dataframe(items, 0)])
+            full_expanded = IH.json_to_dataframe(items, 8)
+            df['authorChannelId'] = full_expanded["snippet.topLevelComment.snippet.authorChannelId.value"]
+            df['publishedAt'] = full_expanded["snippet.topLevelComment.snippet.publishedAt"]
+            df['textOriginal'] = full_expanded["snippet.topLevelComment.snippet.textOriginal"]
+            try:
+                df['nextPageToken'] = data['nextPageToken']
+            except Exception :
+                df['nextPageToken'] = None
+            IH.save_df(path, file_name, 'a', df)
             if 'nextPageToken' not in data:
                 print('No more pages left')
                 break
@@ -183,11 +199,21 @@ def get_video_comments(api_key, video_id):
                 url = first_url + '&pageToken={}'.format(next_page_token)
                 # To avoid exceeding quota with too many requests
                 time.sleep(1)
+            df = None
         except requests.HTTPError as err:
-            print(f"HTTP Error occurred: {err}")
-            raise
-    return json_list
-
+            status_code = err.response.status_code
+            if status_code == 404:
+                print("404 - Not Found Error")
+                # Treatment for 404 error
+                raise
+            elif status_code == 403:
+                print("403 - Forbidden Error")
+                # Treatment for 403 error
+                break
+            else:
+                print(f"HTTP Error occurred: {status_code}")
+                # Default treatment for other HTTP errors
+                raise
 #Costly Function in QUotas
 def search_channel_with_name_and_get_info(df, api_key):
     """
@@ -209,6 +235,7 @@ def search_channel_with_name_and_get_info(df, api_key):
         df_c = IH.json_to_dataframe(data, 0)
         IH.save_df('CSVs/', 'channels_info', 'a', df_c)
         time.sleep(0.5)
+
 def continue_playlist_import_from_token(api_key, playlist_id, path, file_name, next_page_token):
     base_url = 'https://www.googleapis.com/youtube/v3/playlistItems'
     first_url = f'{base_url}?key={api_key}&playlistId={playlist_id}&part=snippet&maxResults=50&pageToken={next_page_token}'
@@ -272,7 +299,7 @@ def get_playlist_items(api_key, playlist_id, path, file_name):
                 next_page_token = data['nextPageToken']
                 url = first_url + '&pageToken={}'.format(next_page_token)
                 # To avoid exceeding quota with too many requests
-                time.sleep(1)
+                time.sleep(0.25)
         except requests.HTTPError as err:
             print(f"HTTP Error occurred: {err}")
             raise
