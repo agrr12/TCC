@@ -1,0 +1,49 @@
+kind,etag,id,snippet,replies,authorChannelId,publishedAt,textOriginal,nextPageToken,extraction_date
+youtube#commentThread,CgZPW20DGYjGsgszo7eJmJSS5ug,Ugz5932hG5u766pJ74h4AaABAg,"{'videoId': 'mj03x-D11nk', 'topLevelComment': {'kind': 'youtube#comment', 'etag': 'DWkm6-Hu9dqwITySCxPuE5XGNyE', 'id': 'Ugz5932hG5u766pJ74h4AaABAg', 'snippet': {'videoId': 'mj03x-D11nk', 'textDisplay': 'Amei as suas dicas parabéns', 'textOriginal': 'Amei as suas dicas parabéns', 'authorDisplayName': 'Edileuza Sena', 'authorProfileImageUrl': 'https://yt3.ggpht.com/ytc/AGIKgqOeXi-OFoUmDgVfwc8MNd1k-l4FI37iSwhF5g=s48-c-k-c0x00ffffff-no-rj', 'authorChannelUrl': 'http://www.youtube.com/channel/UC6p3c_tn7WnWctzCevUbIfA', 'authorChannelId': {'value': 'UC6p3c_tn7WnWctzCevUbIfA'}, 'canRate': True, 'viewerRating': 'none', 'likeCount': 0, 'publishedAt': '2022-10-30T01:57:13Z', 'updatedAt': '2022-10-30T01:57:13Z'}}, 'canReply': True, 'totalReplyCount': 0, 'isPublic': True}",,UC6p3c_tn7WnWctzCevUbIfA,2022-10-30T01:57:13Z,Amei as suas dicas parabéns,,2023-06-08 12:01:23.016420
+youtube#commentThread,bm4J5vAS8opx0TfwhnnUqzZ7GPU,UgyRFFidOHszPL-l-yR4AaABAg,"{'videoId': 'mj03x-D11nk', 'topLevelComment': {'kind': 'youtube#comment', 'etag': '6Zt37cScpUCyY7t8ccDgdy10oEg', 'id': 'UgyRFFidOHszPL-l-yR4AaABAg', 'snippet': {'videoId': 'mj03x-D11nk', 'textDisplay': 'Lula 2022!', 'textOriginal': 'Lula 2022!', 'authorDisplayName': 'Janio Junior', 'authorProfileImageUrl': 'https://yt3.ggpht.com/ytc/AGIKgqNNCm_ReSg0NWWxyrNmpwhLOuCuJ_XxfMFfURolrIiESg5nyGqfrzFe3D7yC_p5=s48-c-k-c0x00ffffff-no-rj', 'authorChannelUrl': 'http://www.youtube.com/channel/UCGZWB3WkivVH4tYdqeNZDaw', 'authorChannelId': {'value': 'UCGZWB3WkivVH4tYdqeNZDaw'}, 'canRate': True, 'viewerRating': 'none', 'likeCount': 0, 'publishedAt': '2022-10-29T09:43:49Z', 'updatedAt': '2022-10-29T09:43:49Z'}}, 'canReply': True, 'totalReplyCount': 0, 'isPublic': True}",,UCGZWB3WkivVH4tYdqeNZDaw,2022-10-29T09:43:49Z,Lula 2022!,,2023-06-08 12:01:23.016420
+youtube#commentThread,piYyNXQyZGTcOAB9arzeIzH_zSU,UgysFroaQHwxy6y_f8F4AaABAg,"{'videoId': 'mj03x-D11nk', 'topLevelComment': {'kind': 'youtube#comment', 'etag': 'XfFc-0jF4cnShoWhIi5h5BeOxG0', 'id': 'UgysFroaQHwxy6y_f8F4AaABAg', 'snippet': {'videoId': 'mj03x-D11nk', 'textDisplay': 'O RESULTADO DO GOVERNO DO PT PARA REFRESCAR NOSSAS MEMÓRIAS:<br>.<br>Dilma - Impeachment<br>.<br>Roberto Jeferson - (Preso 1° vez no escândalo do mensalão.)<br>.<br>André Vargas - Preso<br>.<br>Antonio Palocci - Preso<br>.<br>José Dirceu - Preso<br>.<br>José genuíno - Preso<br>.<br>João Vaccari - Preso<br>.<br>Antonio Vaccari Neto - Preso<br>.<br>Nestor Cerveró - Preso<br>.<br>Delubio Soares - Preso<br>.<br>Renato Duque - Preso<br>.<br>Jorge Zelada - Preso<br>.<br>Paulo Roberto Costa - Preso<br>.<br>Cândido Vaccarezza - Preso<br>.<br>Paulo Ferreira - Preso<br>.<br>Delcídio Amaral - Preso<br>.<br>Paulo Bernardo  - Preso<br>.<br>Pedro Barusco - Preso<br>.<br>Aldemir Bendine - Preso<br>.<br>Wagner Pinheiro - Preso<br>.<br>Othon Silva - Preso<br>.<br>Lula - (Ex presidiário e chefe da quadrilha) E ainda querem voltar a cena do crime', 'textOriginal': 'O RESULTADO DO GOVERNO DO PT PARA REFRESCAR NOSSAS MEMÓRIAS:\\n.\\nDilma - Impeachment\\n.\\nRoberto Jeferson - (Preso 1° vez no escândalo do mensalão.)\\n.\\nAndré Vargas - Preso\\n.\\nAntonio Palocci - Preso\\n.\\nJosé Dirceu - Preso\\n.\\nJosé genuíno - Preso\\n.\\nJoão Vaccari - Preso\\n.\\nAntonio Vaccari Neto - Preso\\n.\\nNestor Cerveró - Preso\\n.\\nDelubio Soares - Preso\\n.\\nRenato Duque - Preso\\n.\\nJorge Zelada - Preso\\n.\\nPaulo Roberto Costa - Preso\\n.\\nCândido Vaccarezza - Preso\\n.\\nPaulo Ferreira - Preso\\n.\\nDelcídio Amaral - Preso\\n.\\nPaulo Bernardo  - Preso\\n.\\nPedro Barusco - Preso\\n.\\nAldemir Bendine - Preso\\n.\\nWagner Pinheiro - Preso\\n.\\nOthon Silva - Preso\\n.\\nLula - (Ex presidiário e chefe da quadrilha) E ainda querem voltar a cena do crime', 'authorDisplayName': 'wanderson teles de oliveira Teles', 'authorProfileImageUrl': 'https://yt3.ggpht.com/ytc/AGIKgqMuovXUrDf5QpjhgoiTxvCtSZuzLtdsE1hdqfypqOE=s48-c-k-c0x00ffffff-no-rj', 'authorChannelUrl': 'http://www.youtube.com/channel/UCl_wqH92QuMOIuN9lhiWZoA', 'authorChannelId': {'value': 'UCl_wqH92QuMOIuN9lhiWZoA'}, 'canRate': True, 'viewerRating': 'none', 'likeCount': 0, 'publishedAt': '2022-10-29T00:20:49Z', 'updatedAt': '2022-10-29T00:20:49Z'}}, 'canReply': True, 'totalReplyCount': 0, 'isPublic': True}",,UCl_wqH92QuMOIuN9lhiWZoA,2022-10-29T00:20:49Z,"O RESULTADO DO GOVERNO DO PT PARA REFRESCAR NOSSAS MEMÓRIAS:
+.
+Dilma - Impeachment
+.
+Roberto Jeferson - (Preso 1° vez no escândalo do mensalão.)
+.
+André Vargas - Preso
+.
+Antonio Palocci - Preso
+.
+José Dirceu - Preso
+.
+José genuíno - Preso
+.
+João Vaccari - Preso
+.
+Antonio Vaccari Neto - Preso
+.
+Nestor Cerveró - Preso
+.
+Delubio Soares - Preso
+.
+Renato Duque - Preso
+.
+Jorge Zelada - Preso
+.
+Paulo Roberto Costa - Preso
+.
+Cândido Vaccarezza - Preso
+.
+Paulo Ferreira - Preso
+.
+Delcídio Amaral - Preso
+.
+Paulo Bernardo  - Preso
+.
+Pedro Barusco - Preso
+.
+Aldemir Bendine - Preso
+.
+Wagner Pinheiro - Preso
+.
+Othon Silva - Preso
+.
+Lula - (Ex presidiário e chefe da quadrilha) E ainda querem voltar a cena do crime",,2023-06-08 12:01:23.016420
+youtube#commentThread,_4el2NtGl59UWvExNUcWnvC6sgg,UgxqCaqeqjUS2W6z8Dx4AaABAg,"{'videoId': 'mj03x-D11nk', 'topLevelComment': {'kind': 'youtube#comment', 'etag': '8jXdQ3o9X44A3NPrW6Vbh-Phars', 'id': 'UgxqCaqeqjUS2W6z8Dx4AaABAg', 'snippet': {'videoId': 'mj03x-D11nk', 'textDisplay': 'Não deixem o ladrao ganhar.', 'textOriginal': 'Não deixem o ladrao ganhar.', 'authorDisplayName': 'Daniel Lewis', 'authorProfileImageUrl': 'https://yt3.ggpht.com/AcfLX_T7u6ZrLoMR6C8weAiR4CgYfkFvo-ICCuTB4PvVZaoMlaMKkMSAZTPxzqzPOrJpp6LF=s48-c-k-c0x00ffffff-no-rj', 'authorChannelUrl': 'http://www.youtube.com/channel/UCr5GBbyGY5HV3YiP8wHEJKA', 'authorChannelId': {'value': 'UCr5GBbyGY5HV3YiP8wHEJKA'}, 'canRate': True, 'viewerRating': 'none', 'likeCount': 2, 'publishedAt': '2022-10-28T23:41:58Z', 'updatedAt': '2022-10-28T23:41:58Z'}}, 'canReply': True, 'totalReplyCount': 0, 'isPublic': True}",,UCr5GBbyGY5HV3YiP8wHEJKA,2022-10-28T23:41:58Z,Não deixem o ladrao ganhar.,,2023-06-08 12:01:23.016420
