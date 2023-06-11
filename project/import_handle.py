@@ -43,5 +43,14 @@ def get_api_key(row_number):
 
     return rows[row_number].split("=")[1]
 
-if __name__ == '__main__':
-    print(get_api_key(0))
+
+def check_value_in_column(file_path, column_name, value):
+    try:
+        df = pd.read_csv(file_path)
+    except FileNotFoundError:
+        return False
+
+    if value in df[column_name].values:
+        return True
+    else:
+        return False

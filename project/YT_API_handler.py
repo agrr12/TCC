@@ -5,6 +5,7 @@ from datetime import datetime
 import pandas as pd
 import json
 import os
+
 #Costly Function in QUotas
 def get_channel_videosIDs_timeframe(api_key, channel_id, start_date, end_date):
     """
@@ -213,6 +214,7 @@ def get_video_comments(api_key, video_id, path, file_name):
                 print(f"HTTP Error occurred: {status_code}")
                 # Default treatment for other HTTP errors
                 raise
+
 #Costly Function in QUotas
 def search_channel_with_name_and_get_info(df, api_key):
     """
@@ -337,3 +339,35 @@ def process_video_comments(df, api_key, start_date, end_date):
         get_video_comments(api_key, videoID, f'CSVs/Comments/{channel_name}/', fileName)
         print("Got video", str(videoCount))
         videoCount += 1
+
+def write_all_channel_comments(videos_path, api_key):
+    for file_name in os.listdir(videos_path):
+        if file_name.replace(" ", "").replace(".csv", "") in ("JornaldaRecord",'PlantãoBrasil'):
+            continue
+        print(file_name, 'STARTING')
+        path_output = os.path.join('CSVs', 'Comments',file_name.replace(" ", "").replace(".csv", ""))
+        if os.path.exists(f'{path_output}'):
+            print(file_name, 'ALREADY DOWNLOADED')
+            continue
+        if os.path.isfile(os.path.join(videos_path, file_name)):
+            df = pd.read_csv(os.path.join(videos_path, file_name))
+            start_date = datetime.strptime('2022-10-01T00:00:00Z', '%Y-%m-%dT%H:%M:%S%z')
+            end_date = datetime.strptime('2022-11-01T00:00:00Z', '%Y-%m-%dT%H:%M:%S%z')
+            df['dates'] = pd.to_datetime(df['publishedAt'])
+            df_filtered = df[(df['dates'] >= start_date) & (df['dates'] < end_date)]
+            videoCount = 0
+            print(file_name, 'DOWNLOADING')
+            for _,row in df_filtered.iterrows():
+                if videoCount<=-1:
+                    videoCount += 1
+                    continue
+                else:
+                    print("Getting video",str(videoCount), "of", file_name.replace(" ", "").replace(".csv", ""))
+                    channel_name = row['channelTitle'].replace(" ", "")
+                    fileName = f"video{str(videoCount)}_comments_{channel_name}"
+                    videoID = row['videoId']
+                    get_video_comments(api_key, videoID, f'CSVs/Comments/{channel_name}/', fileName)
+                    print("Got video", str(videoCount))
+                    videoCount+=1
+            print(file_name, 'FINISHED')
+
