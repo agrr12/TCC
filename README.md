@@ -1,0 +1,8 @@
+# TCC
+
+Abaixo segue o link para o repositório do projeto no GitHub.
+
+O projeto encontra-se na etapa de coleta dos dados e já iniciou uma etapa de análise preliminar dos dados. O protótipo apresentado contém já uma coleta parcial da listagem de vídeos de todos os canais selecionados (TCC_YouTubeChannels.csv). A listagem pode ser encontrada (para cada canal) dentro do caminho /project/CSVs/ChannelVideos. Excetuando sites com alto volume de publicação (como sites de grandes veículos de notícias), já foram obtidas as listagens de vídeos de todos os demais canais para o ano de 2022.
+Para uma análise preliminar, foi realizada a coleta de todos os comentários de todos os vídeos referentes ao mês de outubro de 2022 para quase todos os canais. O total da coleta já ultrapassa 1GB em dados. Os comentários podem ser encontrados em /project/CSVs/Comments/<nome do canal>.
+
+O repositório conta com funções desenvolvidas para realização da coleta (YT_API_handler.py) e realização de uma análise preliminar dos dados (analysis_API.py, dev1.py e dev2.py). Dentro da pasta Analysis, dois tipos de análises preliminares foram esboçados. Em primeiro lugar, uma seleção dos usuários com um alto volume de comentários em canais específicos (chamados de High Commenters no contexto da pesquisa). Aqui já foram encontrados alguns usuários com comportamento suspeito (62_CNNbrasil.csv, 48_alexandreGarcia.csv, 1_felintoMotoVlog.csv, 2_EDUARDOBOLSONARO.csv, 0_JairBolsonaro.csv, por exemplo) que serão analisados em mais detalhes no futuro. Em segundo lugar, já foi esboçada a transformação do padrão de postagens de usuários em séries temporais. Alguns exemplos simples podem ser encontrados em /project/Analysis/CommentsTimeSeries.
