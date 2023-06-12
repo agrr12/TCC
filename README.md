@@ -1,7 +1,5 @@
 # TCC
 
-Abaixo segue o link para o repositório do projeto no GitHub.
-
 O projeto encontra-se na etapa de coleta dos dados e já iniciou uma etapa de análise preliminar dos dados. O protótipo apresentado contém já uma coleta parcial da listagem de vídeos de todos os canais selecionados (TCC_YouTubeChannels.csv). A listagem pode ser encontrada (para cada canal) dentro do caminho /project/CSVs/ChannelVideos. Excetuando sites com alto volume de publicação (como sites de grandes veículos de notícias), já foram obtidas as listagens de vídeos de todos os demais canais para o ano de 2022.
 Para uma análise preliminar, foi realizada a coleta de todos os comentários de todos os vídeos referentes ao mês de outubro de 2022 para quase todos os canais. O total da coleta já ultrapassa 1GB em dados. Os comentários podem ser encontrados em /project/CSVs/Comments/<nome do canal>.
 
