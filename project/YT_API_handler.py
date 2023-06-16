@@ -215,6 +215,14 @@ def get_video_comments(api_key, video_id, path, file_name):
                 # Default treatment for other HTTP errors
                 raise
 
+def add_channel_to_channel_csv(api_key, channel_name, channel_id):
+    json = get_channel_info(api_key, channel_id)
+    IH.write_json(f'JSONs/Channels/', channel_name + "_info", json)
+    data = json['items']
+    df_c = IH.json_to_dataframe(data, 0)
+    IH.save_df('CSVs/', 'channels_info', 'a', df_c)
+
+
 #Costly Function in QUotas
 def search_channel_with_name_and_get_info(df, api_key):
     """

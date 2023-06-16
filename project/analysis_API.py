@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import import_handle as IH
+import matplotlib.pyplot as plt
 
 def find_high_frequency_commenter(comment_folder_path):
     """
@@ -41,3 +42,49 @@ def find_high_frequency_commenter(comment_folder_path):
         file_name = f"comments_{str(count)}_{channel}"
         IH.save_df(path, file_name, 'w', df_high_commenter, add_time=False)
         count+=1
+
+def plot_user_comments_time_series(df, channel):
+    df['publishedAt'] = pd.to_datetime(df['publishedAt'])
+    df['publishedAt'] = df['publishedAt'].dt.strftime('%d-%m-%y')
+    autor_id = df.iloc[0]['authorChannelId']
+
+    contagem = df.groupby('publishedAt').size().reset_index(name='COUNT')
+    # Create a DataFrame for all days of a month, in this case, October 2022
+    all_dates = pd.DataFrame({
+        'publishedAt': pd.date_range(start='2022-10-01', end='2022-11-01')
+    })
+
+    # Convert the 'publishedAt' column to datetime, if it's not already
+    contagem['publishedAt'] = pd.to_datetime(contagem['publishedAt'])
+
+    # Merge the two DataFrames
+    contagem = pd.merge(all_dates, contagem, on='publishedAt', how='left')
+
+    # Fill NaN values in 'COUNT' with zero
+    contagem['COUNT'] = contagem['COUNT'].fillna(0)
+
+    plt.plot(contagem['publishedAt'].to_numpy(),contagem['COUNT'].to_numpy())
+
+
+    plt.xticks(rotation='vertical')  # Define a rotação das legendas no eixo x
+    plt.title(f" User {autor_id} on {channel}")
+    plt.ylim(0, 50)
+
+    output_path = os.path.join('Analysis', 'CommentsTimeSeries')
+    IH.create_path_if_not_exists(output_path)
+
+    files = os.listdir(output_path)
+    numbers = [int(filename.split('.')[0]) for filename in files if
+               filename.endswith('.png') and filename[:-4].isdigit()]
+    if numbers:
+        highest_number = max(numbers)
+    else:
+        highest_number = -1
+    highest_number+=1
+    #print(numbers)
+    plt.tight_layout()
+    full_output = os.path.join('Analysis', 'CommentsTimeSeries', f"{str(highest_number)}.png")
+    plt.savefig(full_output)  # Save the plot to a file
+    plt.close()
+    #plt.show()
+    return contagem
