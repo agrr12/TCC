@@ -1,55 +1,54 @@
-import json
-import time
-from datetime import datetime
-import analysis_API as AN
-
-import requests
-import pandas as pd
-import import_handle as IH
-import YT_API_handler as YT
+import numpy as np
+import cv2
 import os
+import pandas as pd
+from skimage.metrics import structural_similarity as ssim, peak_signal_noise_ratio as psnr
+import warnings
 
 
+warnings.simplefilter(action='ignore', category=FutureWarning)
+# load the first image
+image1 = cv2.imread('/sources/images\\days_seconds\\alpha_red_scatter\\0.png')
 
-folder_path = 'CSVs\Comments\EDUARDOBOLSONARO'  # Replace with the actual folder path
+# path to the directory containing the other images
+directory = 'C:\\Users\\agrri\\PycharmProjects\\TCC\\project\\images\\days_seconds\\alpha_red_scatter'
 
-from itertools import combinations
+df_mse = pd.DataFrame(columns=['Image1', 'Image2', 'MSE'])
+df_nrmse = pd.DataFrame(columns=['Image1', 'Image2', 'NRMSE'])
+df_ssim = pd.DataFrame(columns=['Image1', 'Image2', 'SSIM'])
+df_psnr = pd.DataFrame(columns=['Image1', 'Image2', 'PSNR'])
 
-def get_combinations(comment_folder_path):
-    # Get the values of the column as a list
-    # Iterate over all files in the folder
-    edges = {}
-    for file_name in os.listdir(comment_folder_path)[0:10]:
-        if os.path.isfile(os.path.join(comment_folder_path, file_name)):
-            print(file_name)
-            df = pd.read_csv(os.path.join(comment_folder_path, file_name))
-            df_id = df['authorChannelId'].unique().tolist()
-            comb = list(combinations(df_id, 2))
-            sorted_combinations = [tuple(sorted(combo)) for combo in comb]
-            for item in sorted_combinations:
-                if item in edges:
-                    edges[item] += 1
-                else:
-                    edges[item] = 1
-    # Use the combinations function to get all 2-element combinations
-    return edges
+images = [f for f in os.listdir(directory) if f.endswith('.png')]  # assuming the images are in png format
 
+for i in range(len(images)):
+    for j in range(i+1, len(images)):
+        print(i,j)
+        img1_path = os.path.join(directory, images[i])
+        img2_path = os.path.join(directory, images[j])
 
-dic = get_combinations(folder_path)
-for x in dic:
-    if dic[x] > 3:
-        print(x, dic[x])
+        image1 = cv2.imread(img1_path)
+        image2 = cv2.imread(img2_path)
 
-import networkx as nx
-import matplotlib.pyplot as plt
-# Initialize the Graph
-G = nx.Graph()
+        # ensure the two images have the same dimensions
+        image1_resized = cv2.resize(image1, (image2.shape[1], image2.shape[0]))
 
+        mse = np.mean((image1_resized - image2) ** 2)
+        max_value = np.max(image1_resized)
+        nrmse = np.sqrt(mse) / max_value
+        ssim_val = ssim(image1_resized, image2, multichannel=True)
+        psnr_val = psnr(image1_resized, image2, data_range=max_value)
 
-# Add edges from the dictionary to the graph
-for nodes, weight in dic.items():
-    G.add_edge(nodes[0], nodes[1], weight=weight)
+        df_mse = pd.concat([df_mse, pd.DataFrame([{'Image1': images[i], 'Image2': images[j], 'MSE': mse}])],
+                           ignore_index=True)
+        df_nrmse = pd.concat([df_nrmse, pd.DataFrame([{'Image1': images[i], 'Image2': images[j], 'NRMSE': nrmse}])],
+                             ignore_index=True)
+        df_ssim = pd.concat([df_ssim, pd.DataFrame([{'Image1': images[i], 'Image2': images[j], 'SSIM': ssim_val}])],
+                            ignore_index=True)
+        df_psnr = pd.concat([df_psnr, pd.DataFrame([{'Image1': images[i], 'Image2': images[j], 'PSNR': psnr_val}])],
+                            ignore_index=True)
 
-nx.write_pajek(G, "graph.net")
-nx.draw(G, with_labels=False, node_color='skyblue', node_size=800)
-plt.show()
+# save the dataframes to csv
+df_mse.to_csv('C:\\Users\\agrri\\PycharmProjects\\TCC\\project\\images\\days_seconds\\mse_comparison.csv', index=False)
+df_nrmse.to_csv('C:\\Users\\agrri\\PycharmProjects\\TCC\\project\\images\\days_seconds\\nrmse_comparison.csv', index=False)
+df_ssim.to_csv('C:\\Users\\agrri\\PycharmProjects\\TCC\\project\\images\\days_seconds\\ssim_comparison.csv', index=False)
+df_psnr.to_csv('C:\\Users\\agrri\\PycharmProjects\\TCC\\project\\images\\days_seconds\\psnr_comparison.csv', index=False)

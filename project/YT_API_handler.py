@@ -28,7 +28,7 @@ def get_channel_videosIDs_timeframe(api_key, channel_id, start_date, end_date):
         HTTPError: If the GET request to the YouTube Data API v3 fails.
     """
     base_url = 'https://www.googleapis.com/youtube/v3/search?'
-    first_url = base_url+'key={}&channelId={}&part=id&order=date&maxResults=50&publishedAfter={}&publishedBefore={}'.format(
+    first_url = base_url+'key={}&channelId={}&part=id&order=date&maxResults=50&publishedAfter={}&publishedBefore={}&maxResults=50&type=video'.format(
         api_key, channel_id, start_date, end_date)
     video_data = {}
     url = first_url
@@ -111,7 +111,7 @@ def get_channel_info(api_key, channel_id):
         print(f"HTTP Error occurred: {err}")
         raise
 
-def get_video_info(api_key, video_id):
+def get_video_info(api_key, video_id, path, file_name):
     """
     Retrieves detailed information about a specific YouTube video.
 
@@ -137,10 +137,20 @@ def get_video_info(api_key, video_id):
     base_url = 'https://www.googleapis.com/youtube/v3/videos?'
     url = base_url + 'key={}&id={}&part=id,snippet,contentDetails,player,recordingDetails,statistics,status,topicDetails'.format(api_key,video_id)
     response = requests.get(url)
+    column_names = ['kind', 'etag', 'id', 'snippet', 'contentDetails', 'status']
+    df_base = pd.DataFrame(columns=column_names)
     try:
         response.raise_for_status()
-        response_json = response.json()
-        return response_json
+        data = response.json()
+        items = data['items']
+        full_expanded = IH.json_to_dataframe(items, 8)
+        df = pd.concat([df_base, IH.json_to_dataframe(items, 0)])
+        df['channelId'] = full_expanded["snippet.channelId"]
+        df['channelTitle'] = full_expanded["snippet.channelTitle"]
+        df['publishedAt'] = full_expanded["snippet.publishedAt"]
+        df['videoId'] = video_id
+        datas = pd.to_datetime(df['publishedAt'], format='%Y-%m-%dT%H:%M:%SZ')
+        IH.save_df(path, file_name, 'a', df)
     except requests.HTTPError as err:
         print(f"HTTP Error occurred: {err}")
         raise
@@ -185,7 +195,10 @@ def get_video_comments(api_key, video_id, path, file_name):
             full_expanded = IH.json_to_dataframe(items, 8)
             df['authorChannelId'] = full_expanded["snippet.topLevelComment.snippet.authorChannelId.value"]
             df['publishedAt'] = full_expanded["snippet.topLevelComment.snippet.publishedAt"]
+            df['likeCount'] = full_expanded["snippet.topLevelComment.snippet.likeCount"]
             df['textOriginal'] = full_expanded["snippet.topLevelComment.snippet.textOriginal"]
+            df['videoId'] = full_expanded["snippet.videoId"]
+            df['authorDisplayName'] = full_expanded["snippet.topLevelComment.snippet.authorDisplayName"]
             try:
                 df['nextPageToken'] = data['nextPageToken']
             except Exception :
@@ -209,41 +222,11 @@ def get_video_comments(api_key, video_id, path, file_name):
             elif status_code == 403:
                 print("403 - Forbidden Error")
                 # Treatment for 403 error
-                break
+                raise
             else:
                 print(f"HTTP Error occurred: {status_code}")
                 # Default treatment for other HTTP errors
                 raise
-
-def add_channel_to_channel_csv(api_key, channel_name, channel_id):
-    json = get_channel_info(api_key, channel_id)
-    IH.write_json(f'JSONs/Channels/', channel_name + "_info", json)
-    data = json['items']
-    df_c = IH.json_to_dataframe(data, 0)
-    IH.save_df('CSVs/', 'channels_info', 'a', df_c)
-
-
-#Costly Function in QUotas
-def search_channel_with_name_and_get_info(df, api_key):
-    """
-    Process a dataframe, retrieving channel information and saving it as JSON and CSV.
-    This function is HIGHLY COSTLY since it uses the SEARCH API (get_channelID_by_channelName).
-    Each request costs 100 quotas.
-
-    Args:
-        df (pandas.DataFrame): The dataframe containing channel information.
-        api_key (str): The API key to authenticate with the YouTube Data API v3.
-    """
-    for _, row in df.iterrows():
-        channel_name = row['Channel']
-        print(channel_name)
-        channel_id = get_channelID_by_channelName(api_key, channel_name)
-        json = get_channel_info(api_key, channel_id)
-        IH.write_json(f'JSONs/Channels/', channel_name + "_info", json)
-        data = json['items']
-        df_c = IH.json_to_dataframe(data, 0)
-        IH.save_df('CSVs/', 'channels_info', 'a', df_c)
-        time.sleep(0.5)
 
 def continue_playlist_import_from_token(api_key, playlist_id, path, file_name, next_page_token):
     base_url = 'https://www.googleapis.com/youtube/v3/playlistItems'
@@ -322,31 +305,47 @@ def get_playlist_items(api_key, playlist_id, path, file_name):
             raise
 
 def process_playlist_videos(df, api_key):
-    for _, row in df.iterrows():
-        playlist_id = eval(row['contentDetails'])['relatedPlaylists']['uploads']
-        name = eval(row['snippet'])['title'].replace(' ', '')
-        print(name, playlist_id, 'STARTED')
-        test_path = os.path.join('CSVs/ChannelVideos', name)
-        if os.path.exists(f'{test_path}.csv'):
-            print(name, 'ALREADY DOWNLOADED')
-            continue
-        get_playlist_items(api_key, playlist_id, 'CSVs/ChannelVideos', name)
-        print(name, playlist_id, 'CONCLUDED')
+    df = df.sort_values(by='videoCount')
+    df = df[df['videoCount'] <= 8000]
+    ids = df['channel_id'].tolist()
+    refs = df['channel_ref'].tolist()
+    ups = df['uploads_id'].tolist()
 
-def process_video_comments(df, api_key, start_date, end_date):
-    df['dates'] = pd.to_datetime(df['snippet.publishedAt'])
-    df_filtered = df[(df['dates'] >= start_date) & (df['dates'] < end_date)]
+    id_ref = dict(zip(ids, refs))
+    id_up = dict(zip(ids, ups))
 
     videoCount = 0
 
-    for _, row in df_filtered.iterrows():
-        print("Getting video", str(videoCount))
-        channel_name = row['snippet.channelTitle'].replace(" ", "")
-        fileName = f"video{str(videoCount)}_comments_{channel_name}"
-        videoID = row['snippet.resourceId.videoId']
-        get_video_comments(api_key, videoID, f'CSVs/Comments/{channel_name}/', fileName)
-        print("Got video", str(videoCount))
-        videoCount += 1
+    forbbiden_count = 0
+
+    for id in id_ref:
+        try:
+            videoCount = 0
+            if id_ref[id] in os.listdir('CSVs/Comment/'):  # and id_ref[id] != 'jovempannews':
+                print(id_ref[id], "already downloaded.")
+                continue
+            for index, row in pd.read_csv('CSVs/ChannelVideos/' + id_ref[id] + '.csv').iterrows():
+                minTime = pd.to_datetime("2022-09-01T00:00:00Z")  # Timestamp in your DataFrame
+                maxTime = pd.to_datetime("2022-11-30T23:59:59Z")
+                videoTime = pd.to_datetime(row['publishedAt'])
+                if not (minTime <= videoTime <= maxTime):
+                    continue
+                elif videoCount <= 3766 and id_ref[id] == 'NADA':
+                    break
+                else:
+                    print("Getting video", str(videoCount), id_ref[id], row['videoId'], row['publishedAt'])
+                    IH.create_path_if_not_exists(f'CSVs\Comment\\{id_ref[id]}')
+                    fileName = f"video{str(videoCount)}_comments_{id_ref[id]}"
+                    get_video_comments(api_key, row['videoId'], f'CSVs/Comment/{id_ref[id]}', fileName + '.csv')
+                    print("Got video", str(videoCount), id_ref[id], row['videoId'], row['publishedAt'])
+                    videoCount += 1
+                forbbiden_count = 0
+        except requests.HTTPError as err:
+            status_code = err.response.status_code
+            if status_code == 403:
+                forbbiden_count += 1
+                if forbbiden_count > 3:
+                    break
 
 def write_all_channel_comments(videos_path, api_key):
     for file_name in os.listdir(videos_path):
@@ -378,4 +377,43 @@ def write_all_channel_comments(videos_path, api_key):
                     print("Got video", str(videoCount))
                     videoCount+=1
             print(file_name, 'FINISHED')
+
+def write_channel_info_in_csv(api_key, channel_id, output_folder, file_name):
+    json = get_channel_info(api_key, channel_id)
+    data = json['items']
+    df_c = IH.json_to_dataframe(data, 0)
+    snippet = eval(str(df_c.at[0, 'snippet']))
+    contentDetails = eval(str(df_c.at[0, 'contentDetails']))
+    statistics = eval(str(df_c.at[0, 'statistics']))
+    print(f"Starting {snippet['customUrl']}")
+    df_t = pd.DataFrame({
+        'channel_ref': [snippet['customUrl'].replace("@", "")],
+        'channel_id': [channel_id],
+        'channel_title': [snippet['title']],
+        'published_at': [pd.to_datetime(snippet['publishedAt'])],
+        'custom_url': [snippet['customUrl']],
+        'uploads_id': [contentDetails['relatedPlaylists']['uploads']],
+        'viewCount': [statistics['viewCount']],
+        'subscriberCount': [statistics['subscriberCount']],
+        'videoCount': [statistics['videoCount']],
+        'kind': [df_c.at[0, 'kind']],
+        'etag': [df_c.at[0, 'etag']],
+        'snippet': [df_c.at[0, 'snippet']],
+        'contentDetails': [df_c.at[0, 'contentDetails']],
+        'statistics': [df_c.at[0, 'statistics']],
+        'status': [df_c.at[0, 'status']],
+        'brandingSettings': [df_c.at[0, 'brandingSettings']]
+    })
+    IH.save_df(output_folder, file_name, 'a', df_t, add_time=True)
+    print(f"Finished {snippet['customUrl']}")
+
+def add_new_channel_to_list_from_name(api_key, channel_name, csv_folder='CSVs', csv_file='channels_info.csv'):
+    print(f"Adding {channel_name}")
+    output_path = os.path.join(csv_folder, csv_file, '.csv')
+    df2 = pd.read_csv(output_path)
+    if df2['channel_ref'].isin([channel_name]).any():
+        print(f"{channel_name} already in the file {output_path}")
+        return
+    id = get_channelID_by_channelName(api_key, channel_name)
+    write_channel_info_in_csv(api_key, id, csv_folder, csv_file)
 

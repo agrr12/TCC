@@ -6,7 +6,7 @@ import os
 
 def add_timestamp(df):
     # Get current timestamp
-    current_timestamp = datetime.now()
+    current_timestamp = pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')
 
     # Add timestamp to a new column in the DataFrame
     df['extraction_date'] = current_timestamp
@@ -24,10 +24,10 @@ def json_to_dataframe(json_object, max_unnest_level):
 def save_df(path, file_name, save_mode, dataframe, add_time=True):
     create_path_if_not_exists(path)
     full_path = os.path.join(path, file_name)
-    file_exists = os.path.exists(f'{full_path}.csv')
+    file_exists = os.path.exists(f'{full_path}')
     if add_time:
         dataframe = add_timestamp(dataframe)
-    dataframe.to_csv(f'{full_path}.csv', index=False, mode=save_mode, header=not file_exists, encoding='utf-8', escapechar='\\')
+    dataframe.to_csv(f'{full_path}', index=False, mode=save_mode, header=not file_exists, encoding='utf-8', escapechar='\\')
 
 def write_json(path, file_name, json_object):
     create_path_if_not_exists(path)
@@ -42,7 +42,6 @@ def get_api_key(row_number):
         rows = [row.strip() for row in rows]  # Remove leading/trailing whitespace
 
     return rows[row_number].split("=")[1]
-
 
 def check_value_in_column(file_path, column_name, value):
     try:
