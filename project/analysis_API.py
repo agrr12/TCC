@@ -7,6 +7,7 @@ import cv2
 import os
 from skimage.metrics import structural_similarity as ssim, peak_signal_noise_ratio as psnr
 import warnings
+import pickle
 
 def compare_images(directory, output_directory):
     """
@@ -404,3 +405,23 @@ def unify_dataframes(p, columns):
 
     return unified_df
 
+def create_comparison_matrix(input_file='CAWARP_results_hours_100.csv', pickle_output_file='matrix.pkl'):
+    """
+    Create a symmetric matrix based on the given input CSV file and save it to the specified Pickle file.
+
+    Parameters:
+    - input_file (str): Path to the input CSV file. Defaults to 'CAWARP_results_hours_100.csv'.
+    - pickle_output_file (str): Path to save the matrix as a Pickle file. Defaults to 'matrix.pkl'.
+
+    Returns:
+    - DataFrame: The resulting matrix.
+    """
+    df = pd.read_csv(input_file)
+    # Pivot the table to create the matrix
+    matrix = df.pivot(index='id1', columns='id2', values='result').fillna(0)
+    # Fill missing symmetric values in the matrix
+    matrix = matrix.combine_first(matrix.T).fillna(0)
+    # Save the matrix to the specified Pickle file
+    with open(pickle_output_file, 'wb') as f:
+        pickle.dump(matrix, f)
+    return matrix
