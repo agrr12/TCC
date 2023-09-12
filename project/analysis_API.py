@@ -114,7 +114,7 @@ def compare_image_pairs(input_directory, output_directory, comparison_label, res
                                  index=False)
 
 
-def ConstrainedAWARP(x, y, w):
+def ConstrainedAWARP(x_label, y_label , x, y, w, managed_list):
     """
     Computes the Constrained Adaptive Weighted Asymmetric Time Warping (AWARP)
     distance between two sequences, x and y, with a given window size w. This function
@@ -220,7 +220,9 @@ def ConstrainedAWARP(x, y, w):
 
     # Return the square root of the final cell value as the distance and the matrix D.
     d = np.sqrt(D[n][m])
-    return d, D
+    df=  pd.DataFrame([{'Image1': x_label, 'Image2': y_label, 'AWARP': D,}])
+    managed_list.append(df)
+    #return d, D
 
 def AWARP(x, y):
     """
@@ -317,6 +319,46 @@ def AWARP(x, y):
 
     d = np.sqrt(D[n, m])
     return d, D
+
+def run_awarp_on_csv_parallel(pd_df, column_name, output_name, managed_list):
+    """
+    Reads a CSV file, processes its data, computes the AWARP distance for each pair of series,
+    and saves the result in another CSV file.
+
+    :param pd_df: Pandas dataframe.
+    :param column_name: Name of the column that contains the series data.
+    :param output_name: Name of the output CSV file.
+    """
+
+    for x1, y1 in pd_df.iterrows():
+        id1 = y1['authorChannelId']
+        series1 = [int(i) for i in y1[column_name].strip('[]').split(',')]
+
+        chunk_size = 32
+        chunks_list = [pd_df[i+1:i + chunk_size] for i in range(0, len(pd_df), chunk_size)]
+
+        for chunk in chunks_list:
+            print(x1, chunk.index.min(), chunk.index.max())
+            for x2, y2 in chunk.iterrows():
+                id2 = y2['authorChannelId']
+                series2 = [int(i) for i in y2[column_name].strip('[]').split(',')]
+                process_list = []
+                process = Process(target=ConstrainedAWARP,
+                                  args=(id1, id2, series1, series2, 100, managed_list))
+                process_list.append(process)
+
+            # Start the processes
+            for process in process_list:
+                process.start()
+
+            # Join the processes
+            for process in process_list:
+                process.join()
+    # Combine all individual results into a single dataframe and save it as a CSV file
+    aggregated_results_df = pd.concat(list(managed_list))
+    print(aggregated_results_df)
+    aggregated_results_df.to_csv(output_name,
+                                 index=False)
 
 def run_awarp_on_csv(pd_df, column_name, awarp_or_cawarp, output_name):
     """
