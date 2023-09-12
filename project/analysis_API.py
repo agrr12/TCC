@@ -63,7 +63,7 @@ def perform_comparisons_two_images(directory, img_1, img_2, managed_list):
     managed_list.append(df)
 
 
-def compare_image_pairs(input_directory, output_directory, comparison_label, result_list):
+def compare_image_pairs(input_directory, output_directory, comparison_label):
     """
     Compares all possible pairs of PNG images within the specified directory using several metrics:
     Mean Squared Error (MSE), Normalized Root Mean Square Error (NRMSE), Structural Similarity Index (SSIM),
@@ -84,15 +84,16 @@ def compare_image_pairs(input_directory, output_directory, comparison_label, res
     """
 
     warnings.simplefilter(action='ignore', category=FutureWarning)
-
-    image_filenames = [f for f in os.listdir(input_directory) if f.endswith('.png')]
-
+    manager = Manager()
+    aggregated_results_df = pd.DataFrame()
+    image_filenames = [f for f in os.listdir(input_directory) if f.endswith('.png')][0:100]
     for i, image_filename in enumerate(image_filenames):
-        chunk_size = 12
+        chunk_size = 16
         indices_to_compare = range(i+1, len(image_filenames))
         chunks_list = [indices_to_compare[x:x + chunk_size] for x in range(0, len(indices_to_compare), chunk_size)]
         for chunk in chunks_list:
             print(i, comparison_label, chunk)
+            result_list = manager.list()
             process_list = []
             for j in chunk:
                 process = Process(target=perform_comparisons_two_images,
@@ -106,12 +107,11 @@ def compare_image_pairs(input_directory, output_directory, comparison_label, res
             # Join the processes
             for process in process_list:
                 process.join()
-
-    # Combine all individual results into a single dataframe and save it as a CSV file
-    aggregated_results_df = pd.concat(list(result_list))
-    print(aggregated_results_df)
-    aggregated_results_df.to_csv(os.path.join(output_directory, f'{comparison_label}_comparison_metrics.csv'),
-                                 index=False)
+            # Combine all individual results into a single dataframe and save it as a CSV file
+            aggregated_results_df = pd.concat([aggregated_results_df, pd.concat(list(result_list))])
+        print(f"{image_filename}, {i} written in CSV")
+        aggregated_results_df.to_csv(os.path.join(output_directory, f'{comparison_label}_comparison_metrics.csv'),
+                                     index=False)
 
 
 def ConstrainedAWARP(x_label, y_label , x, y, w, managed_list):
