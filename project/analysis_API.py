@@ -220,7 +220,7 @@ def ConstrainedAWARP(x_label, y_label , x, y, w, managed_list):
 
     # Return the square root of the final cell value as the distance and the matrix D.
     d = np.sqrt(D[n][m])
-    df=  pd.DataFrame([{'Image1': x_label, 'Image2': y_label, 'AWARP': D,}])
+    df = pd.DataFrame([{'Image1': x_label, 'Image2': y_label, 'AWARP': d}])
     managed_list.append(df)
     #return d, D
 
@@ -320,7 +320,8 @@ def AWARP(x, y):
     d = np.sqrt(D[n, m])
     return d, D
 
-def run_awarp_on_csv_parallel(pd_df, column_name, output_name, managed_list):
+
+def run_awarp_on_csv_parallel(numpy_array, output_name, processes):
     """
     Reads a CSV file, processes its data, computes the AWARP distance for each pair of series,
     and saves the result in another CSV file.
@@ -329,22 +330,25 @@ def run_awarp_on_csv_parallel(pd_df, column_name, output_name, managed_list):
     :param column_name: Name of the column that contains the series data.
     :param output_name: Name of the output CSV file.
     """
+    manager = Manager()
+    aggregated_results_df = pd.DataFrame()
 
-    for x1, y1 in pd_df.iterrows():
-        id1 = y1['authorChannelId']
-        series1 = [int(i) for i in y1[column_name].strip('[]').split(',')]
+    for x1 in range(len(numpy_array)):
+        id1 = numpy_array[x1][0] #authorChannelId
+        series1 = [int(i) for i in str(numpy_array[x1][1]).strip('[]').split(',')]
 
-        chunk_size = 32
-        chunks_list = [pd_df[i+1:i + chunk_size] for i in range(0, len(pd_df), chunk_size)]
+        chunk_size = processes
+        for i in range(x1 + 1, len(numpy_array), chunk_size):
+            chunk = numpy_array[i:i + chunk_size]
 
-        for chunk in chunks_list:
-            print(x1, chunk.index.min(), chunk.index.max())
-            for x2, y2 in chunk.iterrows():
-                id2 = y2['authorChannelId']
-                series2 = [int(i) for i in y2[column_name].strip('[]').split(',')]
-                process_list = []
-                process = Process(target=ConstrainedAWARP,
-                                  args=(id1, id2, series1, series2, 100, managed_list))
+            shared_list = manager.list()
+            print(x1, i, min(i + chunk_size, len(numpy_array)) - 1)
+            process_list = []
+
+            for x2 in range(len(chunk)):
+                id2 = chunk[x2][0] #authorChannelId
+                series2 = [int(i) for i in str(chunk[x2][1]).strip('[]').split(',')]
+                process = Process(target=ConstrainedAWARP, args=(id1, id2, series1, series2, 100, shared_list))
                 process_list.append(process)
 
             # Start the processes
@@ -354,12 +358,12 @@ def run_awarp_on_csv_parallel(pd_df, column_name, output_name, managed_list):
             # Join the processes
             for process in process_list:
                 process.join()
-    # Combine all individual results into a single dataframe and save it as a CSV file
-    aggregated_results_df = pd.concat(list(managed_list))
-    print(aggregated_results_df)
-    aggregated_results_df.to_csv(output_name,
-                                 index=False)
 
+            # Combine all individual results into a single dataframe and save it as a CSV file
+            aggregated_results_df = pd.concat([aggregated_results_df, pd.concat(list(shared_list))])
+            print(len(aggregated_results_df))
+
+    aggregated_results_df.to_csv(output_name, index=False)
 def run_awarp_on_csv(pd_df, column_name, awarp_or_cawarp, output_name):
     """
     Reads a CSV file, processes its data, computes the AWARP distance for each pair of series,
