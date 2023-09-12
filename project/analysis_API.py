@@ -220,7 +220,7 @@ def ConstrainedAWARP(x_label, y_label , x, y, w, managed_list):
 
     # Return the square root of the final cell value as the distance and the matrix D.
     d = np.sqrt(D[n][m])
-    df = pd.DataFrame([{'Image1': x_label, 'Image2': y_label, 'AWARP': d}])
+    df = pd.DataFrame([{'User1': x_label, 'User2': y_label, 'AWARP': d}])
     managed_list.append(df)
     #return d, D
 
@@ -361,9 +361,8 @@ def run_awarp_on_csv_parallel(numpy_array, output_name, processes):
 
             # Combine all individual results into a single dataframe and save it as a CSV file
             aggregated_results_df = pd.concat([aggregated_results_df, pd.concat(list(shared_list))])
-            print(len(aggregated_results_df))
-
-    aggregated_results_df.to_csv(output_name, index=False)
+        print(f"{id1}, {x1} written in CSV")
+        aggregated_results_df.to_csv(output_name, index=False)
 def run_awarp_on_csv(pd_df, column_name, awarp_or_cawarp, output_name):
     """
     Reads a CSV file, processes its data, computes the AWARP distance for each pair of series,
