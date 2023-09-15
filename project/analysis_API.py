@@ -86,7 +86,7 @@ def compare_image_pairs(input_directory, output_directory, comparison_label):
     warnings.simplefilter(action='ignore', category=FutureWarning)
     manager = Manager()
     aggregated_results_df = pd.DataFrame()
-    image_filenames = [f for f in os.listdir(input_directory) if f.endswith('.png')][0:100]
+    image_filenames = [f for f in os.listdir(input_directory) if f.endswith('.png')]
     for i, image_filename in enumerate(image_filenames):
         chunk_size = 16
         indices_to_compare = range(i+1, len(image_filenames))
