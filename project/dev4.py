@@ -5,16 +5,10 @@ import threading
 from multiprocessing import Process, Manager
 import pandas as pd
 
-import os
-#3
-if __name__ == '__main__':
-    processes = 16
-
-    df = pd.read_csv('/TCC/project/CSVs/encoded_TS/encoded_hours.csv').to_numpy()
-    AN.run_awarp_on_csv_parallel(df, 'AWARP_hou_w100.csv', processes)
-
-    #df = pd.read_csv('/home/agrr/ProjectsPy/TCC/encoded_minutes.csv').to_numpy()
-    #AN.run_awarp_on_csv_parallel(df, 'encode_min', 'AWARP_min_w100.csv', processes)
-
-    #df = pd.read_csv('/home/agrr/ProjectsPy/TCC/encoded_seconds.csv').to_numpy()
-    #AN.run_awarp_on_csv_parallel(df, 'encode_sec', 'AWARP_sec_w100.csv', processes)
+path ='CSVs\comparison_metrics\AWARP_hou_w100.csv'
+c1 = 'User1'
+c2 = 'User2'
+# Using the same distance_matrix from before
+a = AN.create_comparison_matrix(path, c1, c2, 'AWARP')
+df = pd.DataFrame(a)
+df.to_csv('matrix.csv')
