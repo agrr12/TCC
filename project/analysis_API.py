@@ -496,7 +496,7 @@ def unify_dataframes(p, columns):
 
     return unified_df
 
-def create_comparison_matrix(input_file='CAWARP_results_hours_100.csv', pickle_output_file='matrix.pkl'):
+def create_comparison_matrix(input_file, c1, c2, c3):
     """
     Create a symmetric matrix based on the given input CSV file and save it to the specified Pickle file.
 
@@ -509,10 +509,7 @@ def create_comparison_matrix(input_file='CAWARP_results_hours_100.csv', pickle_o
     """
     df = pd.read_csv(input_file)
     # Pivot the table to create the matrix
-    matrix = df.pivot(index='id1', columns='id2', values='result').fillna(0)
+    matrix = df.pivot(index=c1, columns=c2, values=c3).fillna(0)
     # Fill missing symmetric values in the matrix
     matrix = matrix.combine_first(matrix.T).fillna(0)
-    # Save the matrix to the specified Pickle file
-    with open(pickle_output_file, 'wb') as f:
-        pickle.dump(matrix, f)
     return matrix
