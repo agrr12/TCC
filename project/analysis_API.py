@@ -507,7 +507,8 @@ def create_comparison_matrix(input_file, c1, c2, c3):
     Returns:
     - DataFrame: The resulting matrix.
     """
-    df = pd.read_csv(input_file)
+    df = pd.read_csv(input_file, sep=',')
+    print(df.columns)
     # Pivot the table to create the matrix
     matrix = df.pivot(index=c1, columns=c2, values=c3)
     # Fill missing symmetric values in the matrix

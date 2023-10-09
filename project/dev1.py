@@ -18,6 +18,10 @@ from scipy.spatial.distance import squareform
 
 def generate_dendogram_for_metrics(dataset_path, column1, column2, column3, output_path, metric, representation):
     matrix = AP.create_comparison_matrix(dataset_path, column1, column2, column3)
+    if metric in ['ssim', 'cosine_similarity']:
+        matrix = 1 - matrix
+    if metric == 'pearson_correlation':
+        matrix = 1 - (matrix + 1) / 2
     condensed_dist_matrix = squareform(matrix, checks=False)
     labels = [row for row in matrix]
     if metric != 'AWARP':
@@ -49,8 +53,16 @@ for x in ['hexbin', 'scatter']:
     c1 = 'Image1'
     c2 = 'Image2'
     c4 = x
-    for y in ['MSE', 'NRMSE', 'SSIM', 'PSNR', 'CK1_vp9']:
+    for y in ['MSE', 'NRMSE', 'SSIM', 'CK1_vp9']:
         c3 = y
         generate_dendogram_for_metrics(path, c1, c2, c3, output, c3, c4)
 
 generate_dendogram_for_metrics('CSVs\comparison_metrics\AWARP_hou_w100.csv', 'User1', 'User2', 'AWARP', output, 'AWARP', 'AWARP')
+
+
+path = f'CSVs\comparison_metrics\metrics_post_distribution_merged.csv'
+c1 = 'author1'
+c2 = 'author2'
+for y in ['euclidean_distance',	'manhattan_distance','cosine_similarity', 'pearson_correlation']:
+    c3 = y
+    generate_dendogram_for_metrics(path, c1, c2, c3, output, c3, c4)
